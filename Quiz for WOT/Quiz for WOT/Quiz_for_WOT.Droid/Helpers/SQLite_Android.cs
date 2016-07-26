@@ -26,7 +26,7 @@ namespace Quiz_for_WOT.Droid.Helpers
             Console.WriteLine(path);
             if (!File.Exists(path))
             {
-                var s = Forms.Context.Resources.OpenRawResource(SQLite.Net.Platform.XamarinAndroid.Resource.Raw.databaseFile);  // RESOURCE NAME ###
+                var s = Forms.Context.Resources.OpenRawResource(Resource.Raw.databaseFile);  // RESOURCE NAME ###
 
                 // create a write stream
                 FileStream writeStream = new FileStream(path, FileMode.OpenOrCreate, FileAccess.Write);
