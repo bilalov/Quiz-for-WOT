@@ -5,7 +5,10 @@ namespace Quiz_for_WOT.Helpers
     public enum MenuType
     {
         InputPage,
-        About
+        About,
+        Game,
+        Statistics,
+        AboutApp
     }
     public class HomeMenuItem : BaseModel
     {
