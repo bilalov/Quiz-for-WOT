@@ -2,7 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-
+using Quiz_for_WOT.Interfaces;
+using Quiz_for_WOT.Resx;
 using Xamarin.Forms;
 
 namespace Quiz_for_WOT
@@ -13,7 +14,12 @@ namespace Quiz_for_WOT
         {
             InitializeComponent();
 
+            var netLanguage = DependencyService.Get<ILocalize>().GetCurrentCultureInfo();
+            AppResources.Culture = netLanguage;
+
             MainPage = new Quiz_for_WOT.MainPage();
+
+
         }
 
         protected override void OnStart()
