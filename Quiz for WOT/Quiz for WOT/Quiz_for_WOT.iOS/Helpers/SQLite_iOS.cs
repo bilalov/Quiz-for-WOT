@@ -18,7 +18,7 @@ namespace Quiz_for_WOT.iOS.Helpers
         #region ISQLite implementation
         public SQLiteConnection GetConnection()
         {
-            var sqliteFilename = "data1baseFile.db3";
+            var sqliteFilename = "databaseFile.db3";
             string documentsPath = Environment.GetFolderPath(Environment.SpecialFolder.Personal); // Documents folder
             string libraryPath = Path.Combine(documentsPath, "..", "Library"); // Library folder
             var path = Path.Combine(libraryPath, sqliteFilename);
