@@ -60,5 +60,62 @@ namespace Quiz_for_WOT.Resx {
                 resourceCulture = value;
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Quiz for WOT.
+        /// </summary>
+        internal static string AppName {
+            get {
+                return ResourceManager.GetString("AppName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to About.
+        /// </summary>
+        internal static string MenuAboutApp {
+            get {
+                return ResourceManager.GetString("MenuAboutApp", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Copyright.
+        /// </summary>
+        internal static string MenuCopyright {
+            get {
+                return ResourceManager.GetString("MenuCopyright", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Unreal Tank Quiz - added a new level of the game, updated storyline, enhanced graphics - lots of positive and fun will not leave you indifferent!
+        ///
+        ///Tanks guess from the description or image.
+        ///
+        ///Know your limits!
+        ///
+        ///And then go out beyond them!
+        ///
+        ///The game contains all technics of World of Tanks computer game.
+        ///
+        ///Complete the game, type the record and become the best of the best!
+        ///
+        ///So what are you waiting for?.
+        /// </summary>
+        internal static string PageAboutAppText {
+            get {
+                return ResourceManager.GetString("PageAboutAppText", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to This application is NOT a development of Wargaming.net. Application is made in accordance with Wargaming Developer Partner Program rules: http://eu.wargaming.net/developers/documentation/rules/rules/.
+        /// </summary>
+        internal static string PageCopyrightText {
+            get {
+                return ResourceManager.GetString("PageCopyrightText", resourceCulture);
+            }
+        }
     }
 }

@@ -4,6 +4,7 @@ using Quiz_for_WOT.Model;
 using Quiz_for_WOT.Controls;
 using Quiz_for_WOT.Helpers;
 using Quiz_for_WOT.Model.MasterDetailPage;
+using Quiz_for_WOT.Pages.About;
 using Quiz_for_WOT.Pages.MasterDetail;
 using Xamarin.Forms;
 
@@ -53,6 +54,9 @@ namespace Quiz_for_WOT.Pages.MasterDetail
                 {
                     case MenuType.InputPage:
                         Pages.Add(id, new HanselmanNavigationPage(new InputAppPage()));
+                        break;
+                    case MenuType.About:
+                        Pages.Add(id, new HanselmanNavigationPage(new AboutTabbedPage()));
                         break;
                 }
             }

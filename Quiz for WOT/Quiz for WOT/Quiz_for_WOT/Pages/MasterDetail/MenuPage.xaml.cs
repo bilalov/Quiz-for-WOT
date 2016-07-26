@@ -30,8 +30,7 @@ namespace Quiz_for_WOT.Pages.MasterDetail
 
             ListViewMenu.ItemsSource = menuItems = new List<HomeMenuItem>
                 {
-                    new HomeMenuItem { Title = "InputPage", MenuType = MenuType.InputPage, Icon = "icon.png"},
-                   
+                    new HomeMenuItem { Title = AppResources.MenuAboutApp, MenuType = MenuType.About, Icon = "icon.png"},
                 };
 
             ListViewMenu.SelectedItem = menuItems[0];
