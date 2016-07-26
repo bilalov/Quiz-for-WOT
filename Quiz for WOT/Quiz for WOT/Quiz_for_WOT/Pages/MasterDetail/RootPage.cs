@@ -20,7 +20,7 @@ namespace Quiz_for_WOT.Pages.MasterDetail
             Master = new MenuPage(this);
             BindingContext = new BaseViewModel
             {
-                Title = "",
+                Title = "dfs",
                 Icon = "icon.png"
             };
             //setup home page
@@ -35,7 +35,7 @@ namespace Quiz_for_WOT.Pages.MasterDetail
             Master = new MenuPage(this);
             BindingContext = new BaseViewModel
             {
-                Title = "",
+                Title = "fds",
                 Icon = "icon.png"
             };
             //setup home page
