@@ -18,7 +18,7 @@ namespace Quiz_for_WOT.Droid.Helpers
         #region ISQLite implementation
         public SQLiteConnection GetConnection()
         {
-            var sqliteFilename = "databaseFile.db3";
+            var sqliteFilename = "data1baseFile.db3";
             string documentsPath = System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal); // Documents folder
             var path = Path.Combine(documentsPath, sqliteFilename);
 
@@ -26,7 +26,7 @@ namespace Quiz_for_WOT.Droid.Helpers
             Console.WriteLine(path);
             if (!File.Exists(path))
             {
-                var s = Forms.Context.Resources.OpenRawResource(SQLite.Net.Platform.XamarinAndroid.Resource.Raw.databaseFile);  // RESOURCE NAME ###
+                var s = Forms.Context.Resources.OpenRawResource(SQLite.Net.Platform.XamarinAndroid.Resource.Raw.data1baseFile);  // RESOURCE NAME ###
 
                 // create a write stream
                 FileStream writeStream = new FileStream(path, FileMode.OpenOrCreate, FileAccess.Write);

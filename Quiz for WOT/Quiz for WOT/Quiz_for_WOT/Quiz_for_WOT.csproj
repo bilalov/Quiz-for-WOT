@@ -40,6 +40,7 @@
     </Compile>
     <Compile Include="Controls\HanselmanNavigationPage.cs" />
     <Compile Include="Helpers\FileHelper.cs" />
+    <Compile Include="Helpers\HomeMenuItem.cs" />
     <Compile Include="Helpers\Localize.cs" />
     <Compile Include="Interfaces\IFileHelper.cs" />
     <Compile Include="Interfaces\ILocalize.cs" />
@@ -47,6 +48,14 @@
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Model\BaseModel.cs" />
+    <Compile Include="Pages\InputAppPage.xaml.cs">
+      <DependentUpon>InputAppPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\MasterDetail\MenuPage.xaml.cs">
+      <DependentUpon>MenuPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\MasterDetail\RootPage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Resx\AppResources.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -58,6 +67,7 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>AppResources.ru.resx</DependentUpon>
     </Compile>
+    <Compile Include="ViewModel\BaseViewModel.cs" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="MainPage.xaml">
@@ -106,6 +116,18 @@
   <ItemGroup>
     <None Include="GettingStarted.Xamarin" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Pages\MasterDetail\MenuPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Pages\InputAppPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Portable\$(TargetFrameworkVersion)\Microsoft.Portable.CSharp.targets" />
   <Import Project="..\..\packages\Xamarin.Forms.2.0.0.6482\build\portable-win+net45+wp80+win81+wpa81+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Xamarin.Forms.targets" Condition="Exists('..\..\packages\Xamarin.Forms.2.0.0.6482\build\portable-win+net45+wp80+win81+wpa81+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Xamarin.Forms.targets')" />
