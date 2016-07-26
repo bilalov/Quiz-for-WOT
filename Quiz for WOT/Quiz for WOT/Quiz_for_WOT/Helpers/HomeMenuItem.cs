@@ -1,4 +1,5 @@
-﻿using Quiz_for_WOT.Model.MasterDetailPage;
+﻿using Quiz_for_WOT.Model;
+using Quiz_for_WOT.Model.MasterDetailPage;
 
 namespace Quiz_for_WOT.Helpers
 {

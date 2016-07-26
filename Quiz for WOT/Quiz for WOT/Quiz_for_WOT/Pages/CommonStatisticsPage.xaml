@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Quiz_for_WOT.Pages.CommonStatisticsPage" BackgroundColor="#3A392F">
+  <ContentPage.Resources>
+    <ResourceDictionary>
+      <Style TargetType="Label">
+        <Setter Property="FontSize" Value="15"></Setter>
+        <Setter Property="TextColor" Value="White"></Setter>
+      </Style>
+    </ResourceDictionary>
+  </ContentPage.Resources>
+  <StackLayout BackgroundColor="#3A392F" Padding="20,0,20,0" Spacing="10" Margin="10">
+    <Frame BackgroundColor="Transparent">
+      <Label Text="" x:Name="LabelRecords" FontSize="18" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"></Label>
+    </Frame>
+    <ListView ItemsSource="{Binding Scores}" HasUnevenRows="True" SeparatorVisibility="None" BackgroundColor="Transparent">
+      <ListView.ItemTemplate>
+        <DataTemplate>
+          <ViewCell>
+            <ContentView Margin="0,15,0,0" HeightRequest="55">
+              <Frame OutlineColor="#D0D0BA" BackgroundColor="#D0D0BA" Padding="7">
+                <StackLayout Orientation="Horizontal">
+                  <Label Text="{Binding Place, StringFormat='{0}.   '}" FontSize="15" TextColor="#3A392F" HorizontalOptions="Start" VerticalOptions="Center"/>
+                  <Label Text="{Binding Value}" FontSize="15" TextColor="#3A392F" VerticalOptions="Center"/>
+                </StackLayout>
+              </Frame>
+            </ContentView>
+          </ViewCell>
+        </DataTemplate>
+      </ListView.ItemTemplate>
+    </ListView>
+    <Label Text="" x:Name="LabelGlobalRecord" TextColor="White" HorizontalOptions="CenterAndExpand" FontSize="18"></Label>
+  </StackLayout>
+</ContentPage>

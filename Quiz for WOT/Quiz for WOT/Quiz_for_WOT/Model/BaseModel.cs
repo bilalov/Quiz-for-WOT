@@ -1,4 +1,4 @@
-﻿namespace Quiz_for_WOT.Model.MasterDetailPage
+﻿namespace Quiz_for_WOT.Model
 {
     public class BaseModel
     {

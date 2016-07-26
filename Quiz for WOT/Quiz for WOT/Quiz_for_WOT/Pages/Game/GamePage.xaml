@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Quiz_for_WOT.Pages.Game.GamePage" BackgroundColor="#3A392F">
+  <ContentPage.Padding>
+    <OnPlatform x:TypeArguments="Thickness"
+                iOS="5, 10, 5, 5"
+                Android="5, 5, 5, 5"
+                WinPhone="0, 0, 0, 0" />
+  </ContentPage.Padding>
+  <ContentPage.Resources>
+    <ResourceDictionary>
+      <Style TargetType="Button">
+        <Setter Property="BorderColor" Value="#D0D0BA"></Setter>
+        <Setter Property="BackgroundColor" Value="#D0D0BA"></Setter>
+        <Setter Property="TextColor" Value="Black"></Setter>
+      </Style>
+    </ResourceDictionary>
+  </ContentPage.Resources>
+  <ScrollView>
+    <StackLayout BackgroundColor="#3A392F">
+      <StackLayout Orientation="Horizontal">
+        <Button Text="" x:Name="ButtonGiveMoney" TextColor="#99CC33" Command="{Binding GiveMoneyCommand}" BackgroundColor="Transparent"></Button>
+        <Label VerticalTextAlignment="Center" HorizontalTextAlignment="End" WidthRequest="100" FontSize="18" FontAttributes="Bold" Text="{Binding Score}"  TextColor="#C8310B"></Label>
+      </StackLayout>
+
+      <StackLayout HeightRequest="250">
+        <ContentView x:Name="TextQuestion" IsVisible="{Binding TextQuestionFlag}">
+          <StackLayout>
+            <Label Text="{Binding Question.Value}" TextColor="#D0D0BA" FontSize="15"/>
+          </StackLayout>
+        </ContentView>
+        <ContentView x:Name="ImageQuestion" IsVisible="{Binding ImageQuestionFlag}">
+          <StackLayout>
+            <Image Source="{Binding Question.Value}" />
+          </StackLayout>
+        </ContentView>
+      </StackLayout>
+      <StackLayout Spacing="10">
+        <Label Text="{Binding Question.Description}" TextColor="#D0D0BA"  FontSize="15"></Label>
+        <Button HeightRequest="40" Text="{Binding Question.Answers[0]}" Command="{Binding AnswerCommand}" CommandParameter="{Binding Question.Answers[0]}"/>
+        <Button HeightRequest="40" Text="{Binding Question.Answers[1]}" Command="{Binding AnswerCommand}" CommandParameter="{Binding Question.Answers[1]}"/>
+        <Button HeightRequest="40" Text="{Binding Question.Answers[2]}" Command="{Binding AnswerCommand}" CommandParameter="{Binding Question.Answers[2]}"/>
+        <Button HeightRequest="40" Text="{Binding Question.Answers[3]}" Command="{Binding AnswerCommand}" CommandParameter="{Binding Question.Answers[3]}"/>
+      </StackLayout>
+    </StackLayout>
+  </ScrollView>
+</ContentPage>

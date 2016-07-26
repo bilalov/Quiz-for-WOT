@@ -30,10 +30,9 @@ namespace Quiz_for_WOT.Pages.MasterDetail
 
             ListViewMenu.ItemsSource = menuItems = new List<HomeMenuItem>
                 {
-                    new HomeMenuItem { Title = AppResources.MenuAboutApp, MenuType = MenuType.About, Icon = "icon.png"},
                     new HomeMenuItem { Title = AppResources.MenuGame, MenuType = MenuType.Game, Icon = "handofdeath.png"},
                     new HomeMenuItem { Title = AppResources.MenuStatictics, MenuType = MenuType.Statistics, Icon = "medalleclerc2.png" },
-                    new HomeMenuItem { Title = AppResources.MenuAboutApp, MenuType = MenuType.AboutApp, Icon ="sturdy.png" },
+                    new HomeMenuItem { Title = AppResources.MenuAboutApp, MenuType = MenuType.AboutApp, Icon ="progress4.png" },
                 };
 
             ListViewMenu.SelectedItem = menuItems[0];
