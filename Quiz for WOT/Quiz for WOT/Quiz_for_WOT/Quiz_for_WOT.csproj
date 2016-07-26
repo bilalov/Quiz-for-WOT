@@ -38,6 +38,7 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Controls\HanselmanNavigationPage.cs" />
     <Compile Include="Helpers\FileHelper.cs" />
     <Compile Include="Helpers\Localize.cs" />
     <Compile Include="Interfaces\IFileHelper.cs" />
