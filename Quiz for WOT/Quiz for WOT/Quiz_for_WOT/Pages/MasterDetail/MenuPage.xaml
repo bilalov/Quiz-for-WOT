@@ -24,7 +24,7 @@
           </Grid.RowDefinitions>
           <Image Grid.ColumnSpan="3"
                    Grid.RowSpan="4"
-                  Source="icon.png"/>
+                  Source="ussrflag.png"/>
         </Grid>
       </ListView.Header>
       <ListView.ItemTemplate>

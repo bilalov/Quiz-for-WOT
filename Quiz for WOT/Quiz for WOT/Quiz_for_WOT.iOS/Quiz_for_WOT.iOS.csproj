@@ -102,21 +102,6 @@
     <BundleResource Include="Resources\databaseFile.db3" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\Default-568h%402x.png" />
-    <BundleResource Include="Resources\Default-Portrait.png" />
-    <BundleResource Include="Resources\Default-Portrait%402x.png" />
-    <BundleResource Include="Resources\Default.png" />
-    <BundleResource Include="Resources\Default%402x.png" />
-    <BundleResource Include="Resources\Icon-60%402x.png" />
-    <BundleResource Include="Resources\Icon-60%403x.png" />
-    <BundleResource Include="Resources\Icon-76.png" />
-    <BundleResource Include="Resources\Icon-76%402x.png" />
-    <BundleResource Include="Resources\Icon-Small-40.png" />
-    <BundleResource Include="Resources\Icon-Small-40%402x.png" />
-    <BundleResource Include="Resources\Icon-Small-40%403x.png" />
-    <BundleResource Include="Resources\Icon-Small.png" />
-    <BundleResource Include="Resources\Icon-Small%402x.png" />
-    <BundleResource Include="Resources\Icon-Small%403x.png" />
     <InterfaceDefinition Include="Resources\LaunchScreen.storyboard" />
   </ItemGroup>
   <ItemGroup>
@@ -162,6 +147,1365 @@
       <Project>{BDCA3F4F-085C-4AC0-9A42-4D30ED16DCB6}</Project>
       <Name>Quiz_for_WOT</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\battletested4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\even.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\handofdeath.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ironman.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\lbz1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\lbz2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\medalfadin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\medalleclerc2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\progress3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\progress4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\progress5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\progress6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\inputlogo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\logoloseview1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\logowinview.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ussrflag.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\a_32_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\a02_m2_lt_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\a03_m3_stuart_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\a05_m4_sherman_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\a07_t20_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\a09_t1_hvy_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\a11_t29_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\a12_t32_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\a13_t34_hvy_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\a14_t30_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\a16_m7_priest_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\a18_m41_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\a23_m7_med_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\a24_t2_med_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\a25_m2_med_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\a27_t82_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\a29_t40_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\a30_m10_wolverine_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\a35_pershing_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\a36_sherman_jumbo_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\a43_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\a44_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\a45_m6a2e1_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\a46_t3_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\a63_m46_patton_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\a68_t28_prototype_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\a69_t110e5_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\a80_t26_e4_superpershing_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\a83_t110e4_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\a84_m48a1_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\a85_t110e3_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\a86_t23e3_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\a87_m44_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\a88_m53_55_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\a89_t54e1_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\a94_t37_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\a95_t95_e6_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\a101_m56_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\a102_t28_concept_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\a103_t71e1_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\a104_m4a3e8a_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\a107_t1_hmc_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\a108_t18_hmc_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\a109_t56_gmc_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\amx_13_75_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\amx_13_90_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\amx_13f3am_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\amx_105am_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\amx_ob_am105_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\amx38_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\amx40_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\amx50_foch_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\arl_v39_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\at_1_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\b_1bis_captured_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\b1_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\bat_chatillon25t_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\bat_chatillon155_55_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\bat_chatillon155_58_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\bdr_g1b_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\bt_2_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\bt_7_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\bt_sv_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ch01_type59_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ch02_type62_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ch03_wz_111_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ch04_t34_1_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ch05_t34_2_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ch06_renault_nc31_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ch07_vickers_mke_type_bt26_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ch08_type97_chi_ha_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ch09_m5_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ch10_is2_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ch11_110_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ch12_111_1_2_3_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ch14_t34_3_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ch15_59_16_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ch16_wz_131_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ch17_wz131_1_wz132_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ch18_wz_120_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ch19_121_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ch20_type58_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ch21_t34_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ch22_113_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ch23_112_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ch24_type64_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ch26_59_patton_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\chi_he_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\chi_nu_kai_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\chi_ri_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\chi_to_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\churchill_ll_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\cz01_skoda_t40_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\cz02_tvp_t50_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\cz03_lt_vz35_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\cz04_t50_51_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\cz05_t34_100_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\cz06_kolohousenka_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\cz07_tvp_46_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\cz08_t_25_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\cz09_t_24_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\cz10_lt_vz38_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\cz11_v_8_h_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\d1_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\d2_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\dickermax_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\dw_ii_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\e_50_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\e_75_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\e_100_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\e50_ausf_m_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\elc_amx_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\f06_arl_44_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\f07_amx_m4_1945_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\f08_amx_50_100_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\f09_amx_50_120_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\f10_amx_50b_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\f11_renault_g1r_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\f15_amx_12t_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\f28_105_lefh18b2_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\f35_amx_ac_mle1946_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\f36_amx_ac_mle1948_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\f44_somua_s35_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\f49_renaultr35_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\f50_fcm36_20t_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\f64_amx_50fosh_155_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\f65_fcm_50t_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\f68_amx_chasseur_de_char_46_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\f69_amx13_57_100_grandfinal_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\f70_sarl42_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\f71_amx_30_prototype_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\f72_amx_30_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\f73_m4a1_revalorise_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\fcm_36pak40_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ferdinand_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\g_e_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\g_panther_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\g02_hummel_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\g06_pzii_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\g07_pz35t_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\g11_bison_i_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\g13_vk3001h_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\g15_vk3601h_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\g16_pzvib_tiger_ii_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\g17_jagdpziv_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\g19_wespe_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\g20_marder_ii_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\g21_panzerjager_i_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\g22_sturmpanzer_ii_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\g23_grille_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\g25_pzii_luchs_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\g26_vk1602_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\g34_s35_captured_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\g36_pzii_j_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\g39_marder_iii_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\g40_nashorn_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\g44_jagdtiger_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\g45_g_tiger_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\g46_t_25_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\g48_e_25_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\g52_pz38_na_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\g65_jagdtiger_sdkfz_185_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\g71_jagdpantherii_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\g78_panther_m10_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\g82_pz_ii_ausfg_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\g86_vk2001db_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\g89_leopard1_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\g91_pro_ag_a_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\g92_vk7201_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\g93_gw_mk_vie_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\g100_gtraktor_krupp_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\g101_stug_iii_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\g103_ru_251_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\g104_stug_iv_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\g105_t_55_nva_ddr_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\g106_pzkpfwpanther_ausff_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\g108_pzkpfwii_ausfd_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\g113_sp_i_c_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\g117_toldi_iii_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\g119_pz58_mutz_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gaz_74b_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb01_medium_mark_i_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb03_cruiser_mk_i_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb04_valentine_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb05_vickers_medium_mk_ii_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb06_vickers_medium_mk_iii_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb07_matilda_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb08_churchill_i_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb09_churchill_vii_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb10_black_prince_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb11_caernarvon_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb12_conqueror_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb13_fv215b_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb14_m2_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb15_stuart_i_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb17_grant_i_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb19_sherman_firefly_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb20_crusader_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb21_cromwell_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb22_comet_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb23_centurion_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb24_centurion_mk3_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb25_loyd_gun_carriage_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb26_birch_gun_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb27_sexton_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb28_bishop_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb29_crusader_5inch_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb30_fv3805_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb31_conqueror_gun_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb32_tortoise_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb39_universal_carrierqf2_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb40_gun_carrier_churchill_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb41_challenger_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb42_valentine_at_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb44_archer_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb45_achilles_iic_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb48_fv215b_183_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb50_sherman_iii_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb51_excelsior_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb52_a45_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb57_alecto_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb58_cruiser_mk_iii_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb59_cruiser_mk_iv_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb60_covenanter_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb63_tog_ii_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb68_matilda_black_prince_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb69_cruiser_mk_ii_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb70_n_fv4202_105_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb71_at_15a_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb72_at15_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb73_at2_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb74_at8_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb75_at7_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb76_mk_vic_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb77_fv304_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb78_sexton_i_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb79_fv206_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb80_charioteer_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb81_fv4004_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb83_fv4005_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb85_cromwell_berlin_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gb86_centurion_action_x_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gw_tiger_p_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\h39_captured_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\hetzer_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\hotchkiss_h35_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\iconapp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\indien_panzer_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\is_7_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\isu_152_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\j03_ha_go_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\j04_ke_ni_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\j06_ke_ho_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\j07_chi_ha_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\j08_chi_nu_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\j15_chi_ni_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\j18_sta_2_3_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\j19_tiger_i_jpn_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\j20_type_2605_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\j21_type_91_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\j22_type_95_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\j23_mi_to_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\j24_mi_to_130_tons_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\j25_type_4_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\j26_type_89_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\j27_o_i_120_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\j28_o_i_100_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\jagdpanther_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\jagdpz_e100_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\kv_1s_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\kv_13_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\kv2_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\kv4_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\lorraine39_l_am_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\lorraine40t_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\lorraine155_50_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\lorraine155_51_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\lowe_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ltraktor_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\m3_grant_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\m3_stuart_ll_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\m4a2e4_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\m4a3e8_sherman_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\m5_stuart_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\m6_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\m8a1_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\m12_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\m18_hellcat_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\m22_locust_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\m24_chaffee_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\m36_slagger_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\m37_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\m40m43_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\m41_bulldog_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\m60_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\m103_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\matilda_ii_ll_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\maus_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\mt25_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\nc27_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\object_140_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\object_261_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\object_430_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\object_907_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\object263_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\object268_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\object416_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\panther_ii_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\profillogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\pz_iv_ausfa_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\pz_iv_ausfd_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\pz_iv_ausfh_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\pz_sfl_ivb_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\pz_sfl_ivc_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\pz38t_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\pzi_ausf_c_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\pzi_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\pziii_a_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\pziii_ausfj_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\pziii_iv_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\pziv_hydro_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\pziv_schmalturm_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\pzv_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\pzv_pziv_ausf_alfa_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\pzv_pziv_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\pzvi_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\pzvi_tiger_p_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\r01_is_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\r02_su_85_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\r04_t_34_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\r06_t_28_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\r11_ms_1_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\r12_a_20_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\r16_su_18_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\r17_su_100_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\r18_su_152_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\r19_is_3_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\r24_su_76_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\r38_kv_220_action_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\r39_kv_3_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\r51_object_212_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\r53_object_704_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\r54_kv_5_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\r61_object252_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\r71_is_2b_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\r80_kv1_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\r81_is8_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\r86_ltp_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\r87_t62a_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\r90_is_4m_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\r100_su122a_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\r104_object_430_ii_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\r105_bt_7a_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\r106_kv85_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\r107_ltb_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\r108_t34_85m_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\r109_t54s_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\r110_object_260_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\r111_isu130_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\r112_t54_45_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\r113_object_730_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\r115_is_3_auto_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\r116_isu122c_berlin_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\r117_t34_85_rudy_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\r118_t28_f30_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\r120_t22sr_a22_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\r127_t44_100_p_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ram_ii_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\renaultbs_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\renaultft_ac_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\renaultft_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\renaultue57_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\rhb_waffentrager_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\s_35ca_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\s_51_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\somua_sau_40_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\st_b1_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\st_i_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\sta_1_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\stug_40_ausfg_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\sturer_emil_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\su_5_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\su_8_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\su_14_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\su_26_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\su_85i_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\su_101_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\su14_1_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\su76i_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\su100m1_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\su100y_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\su122_44_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\su122_54_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\t_15_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\t_26_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\t_34_85_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\t_43_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\t_44_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\t_46_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\t_50_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\t_54_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\t_60_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\t_70_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\t_127_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\t1_cunningham_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\t1_e6_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\t2_lt_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\t7_combat_car_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\t14_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\t21_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\t25_2_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\t25_at_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\t28_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\t44_122_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\t49_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\t57_58_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\t67_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\t69_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\t80_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\t92_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\t95_e2_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\t95_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\t150_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\te_ke_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\tetrarch_ll_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\type_61_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\valentine_ll_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\vk2801_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\vk3001p_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\vk3002db_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\vk3002db_v1_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\vk3002m_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\vk4502a_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\vk4502p_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\waffentrager_e100_image_resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\waffentrager_iv_image_resized.png" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <Import Project="..\..\packages\Xamarin.Forms.2.0.0.6482\build\portable-win+net45+wp80+win81+wpa81+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Xamarin.Forms.targets" Condition="Exists('..\..\packages\Xamarin.Forms.2.0.0.6482\build\portable-win+net45+wp80+win81+wpa81+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Xamarin.Forms.targets')" />

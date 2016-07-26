@@ -3027,307 +3027,1660 @@ namespace Quiz_for_WOT.Droid
 		{
 			
 			// aapt resource value: 0x7f020000
-			public const int abc_ab_share_pack_mtrl_alpha = 2130837504;
+			public const int a02_m2_lt_image_resized = 2130837504;
 			
 			// aapt resource value: 0x7f020001
-			public const int abc_action_bar_item_background_material = 2130837505;
+			public const int a03_m3_stuart_image_resized = 2130837505;
 			
 			// aapt resource value: 0x7f020002
-			public const int abc_btn_borderless_material = 2130837506;
+			public const int a05_m4_sherman_image_resized = 2130837506;
 			
 			// aapt resource value: 0x7f020003
-			public const int abc_btn_check_material = 2130837507;
+			public const int a07_t20_image_resized = 2130837507;
 			
 			// aapt resource value: 0x7f020004
-			public const int abc_btn_check_to_on_mtrl_000 = 2130837508;
+			public const int a09_t1_hvy_image_resized = 2130837508;
 			
 			// aapt resource value: 0x7f020005
-			public const int abc_btn_check_to_on_mtrl_015 = 2130837509;
+			public const int a101_m56_image_resized = 2130837509;
 			
 			// aapt resource value: 0x7f020006
-			public const int abc_btn_colored_material = 2130837510;
+			public const int a102_t28_concept_image_resized = 2130837510;
 			
 			// aapt resource value: 0x7f020007
-			public const int abc_btn_default_mtrl_shape = 2130837511;
+			public const int a103_t71e1_image_resized = 2130837511;
 			
 			// aapt resource value: 0x7f020008
-			public const int abc_btn_radio_material = 2130837512;
+			public const int a104_m4a3e8a_image_resized = 2130837512;
 			
 			// aapt resource value: 0x7f020009
-			public const int abc_btn_radio_to_on_mtrl_000 = 2130837513;
+			public const int a107_t1_hmc_image_resized = 2130837513;
 			
 			// aapt resource value: 0x7f02000a
-			public const int abc_btn_radio_to_on_mtrl_015 = 2130837514;
+			public const int a108_t18_hmc_image_resized = 2130837514;
 			
 			// aapt resource value: 0x7f02000b
-			public const int abc_btn_rating_star_off_mtrl_alpha = 2130837515;
+			public const int a109_t56_gmc_image_resized = 2130837515;
 			
 			// aapt resource value: 0x7f02000c
-			public const int abc_btn_rating_star_on_mtrl_alpha = 2130837516;
+			public const int a11_t29_image_resized = 2130837516;
 			
 			// aapt resource value: 0x7f02000d
-			public const int abc_btn_switch_to_on_mtrl_00001 = 2130837517;
+			public const int a12_t32_image_resized = 2130837517;
 			
 			// aapt resource value: 0x7f02000e
-			public const int abc_btn_switch_to_on_mtrl_00012 = 2130837518;
+			public const int a13_t34_hvy_image_resized = 2130837518;
 			
 			// aapt resource value: 0x7f02000f
-			public const int abc_cab_background_internal_bg = 2130837519;
+			public const int a14_t30_image_resized = 2130837519;
 			
 			// aapt resource value: 0x7f020010
-			public const int abc_cab_background_top_material = 2130837520;
+			public const int a16_m7_priest_image_resized = 2130837520;
 			
 			// aapt resource value: 0x7f020011
-			public const int abc_cab_background_top_mtrl_alpha = 2130837521;
+			public const int a18_m41_image_resized = 2130837521;
 			
 			// aapt resource value: 0x7f020012
-			public const int abc_control_background_material = 2130837522;
+			public const int a23_m7_med_image_resized = 2130837522;
 			
 			// aapt resource value: 0x7f020013
-			public const int abc_dialog_material_background_dark = 2130837523;
+			public const int a24_t2_med_image_resized = 2130837523;
 			
 			// aapt resource value: 0x7f020014
-			public const int abc_dialog_material_background_light = 2130837524;
+			public const int a25_m2_med_image_resized = 2130837524;
 			
 			// aapt resource value: 0x7f020015
-			public const int abc_edit_text_material = 2130837525;
+			public const int a27_t82_image_resized = 2130837525;
 			
 			// aapt resource value: 0x7f020016
-			public const int abc_ic_ab_back_mtrl_am_alpha = 2130837526;
+			public const int a29_t40_image_resized = 2130837526;
 			
 			// aapt resource value: 0x7f020017
-			public const int abc_ic_clear_mtrl_alpha = 2130837527;
+			public const int a30_m10_wolverine_image_resized = 2130837527;
 			
 			// aapt resource value: 0x7f020018
-			public const int abc_ic_commit_search_api_mtrl_alpha = 2130837528;
+			public const int a35_pershing_image_resized = 2130837528;
 			
 			// aapt resource value: 0x7f020019
-			public const int abc_ic_go_search_api_mtrl_alpha = 2130837529;
+			public const int a36_sherman_jumbo_image_resized = 2130837529;
 			
 			// aapt resource value: 0x7f02001a
-			public const int abc_ic_menu_copy_mtrl_am_alpha = 2130837530;
+			public const int a43_image_resized = 2130837530;
 			
 			// aapt resource value: 0x7f02001b
-			public const int abc_ic_menu_cut_mtrl_alpha = 2130837531;
+			public const int a44_image_resized = 2130837531;
 			
 			// aapt resource value: 0x7f02001c
-			public const int abc_ic_menu_moreoverflow_mtrl_alpha = 2130837532;
+			public const int a45_m6a2e1_image_resized = 2130837532;
 			
 			// aapt resource value: 0x7f02001d
-			public const int abc_ic_menu_paste_mtrl_am_alpha = 2130837533;
+			public const int a46_t3_image_resized = 2130837533;
 			
 			// aapt resource value: 0x7f02001e
-			public const int abc_ic_menu_selectall_mtrl_alpha = 2130837534;
+			public const int a63_m46_patton_image_resized = 2130837534;
 			
 			// aapt resource value: 0x7f02001f
-			public const int abc_ic_menu_share_mtrl_alpha = 2130837535;
+			public const int a68_t28_prototype_image_resized = 2130837535;
 			
 			// aapt resource value: 0x7f020020
-			public const int abc_ic_search_api_mtrl_alpha = 2130837536;
+			public const int a69_t110e5_image_resized = 2130837536;
 			
 			// aapt resource value: 0x7f020021
-			public const int abc_ic_voice_search_api_mtrl_alpha = 2130837537;
+			public const int a80_t26_e4_superpershing_image_resized = 2130837537;
 			
 			// aapt resource value: 0x7f020022
-			public const int abc_item_background_holo_dark = 2130837538;
+			public const int a83_t110e4_image_resized = 2130837538;
 			
 			// aapt resource value: 0x7f020023
-			public const int abc_item_background_holo_light = 2130837539;
+			public const int a84_m48a1_image_resized = 2130837539;
 			
 			// aapt resource value: 0x7f020024
-			public const int abc_list_divider_mtrl_alpha = 2130837540;
+			public const int a85_t110e3_image_resized = 2130837540;
 			
 			// aapt resource value: 0x7f020025
-			public const int abc_list_focused_holo = 2130837541;
+			public const int a86_t23e3_image_resized = 2130837541;
 			
 			// aapt resource value: 0x7f020026
-			public const int abc_list_longpressed_holo = 2130837542;
+			public const int a87_m44_image_resized = 2130837542;
 			
 			// aapt resource value: 0x7f020027
-			public const int abc_list_pressed_holo_dark = 2130837543;
+			public const int a88_m53_55_image_resized = 2130837543;
 			
 			// aapt resource value: 0x7f020028
-			public const int abc_list_pressed_holo_light = 2130837544;
+			public const int a89_t54e1_image_resized = 2130837544;
 			
 			// aapt resource value: 0x7f020029
-			public const int abc_list_selector_background_transition_holo_dark = 2130837545;
+			public const int a94_t37_image_resized = 2130837545;
 			
 			// aapt resource value: 0x7f02002a
-			public const int abc_list_selector_background_transition_holo_light = 2130837546;
+			public const int a95_t95_e6_image_resized = 2130837546;
 			
 			// aapt resource value: 0x7f02002b
-			public const int abc_list_selector_disabled_holo_dark = 2130837547;
+			public const int a_32_image_resized = 2130837547;
 			
 			// aapt resource value: 0x7f02002c
-			public const int abc_list_selector_disabled_holo_light = 2130837548;
+			public const int abc_ab_share_pack_mtrl_alpha = 2130837548;
 			
 			// aapt resource value: 0x7f02002d
-			public const int abc_list_selector_holo_dark = 2130837549;
+			public const int abc_action_bar_item_background_material = 2130837549;
 			
 			// aapt resource value: 0x7f02002e
-			public const int abc_list_selector_holo_light = 2130837550;
+			public const int abc_btn_borderless_material = 2130837550;
 			
 			// aapt resource value: 0x7f02002f
-			public const int abc_menu_hardkey_panel_mtrl_mult = 2130837551;
+			public const int abc_btn_check_material = 2130837551;
 			
 			// aapt resource value: 0x7f020030
-			public const int abc_popup_background_mtrl_mult = 2130837552;
+			public const int abc_btn_check_to_on_mtrl_000 = 2130837552;
 			
 			// aapt resource value: 0x7f020031
-			public const int abc_ratingbar_full_material = 2130837553;
+			public const int abc_btn_check_to_on_mtrl_015 = 2130837553;
 			
 			// aapt resource value: 0x7f020032
-			public const int abc_spinner_mtrl_am_alpha = 2130837554;
+			public const int abc_btn_colored_material = 2130837554;
 			
 			// aapt resource value: 0x7f020033
-			public const int abc_spinner_textfield_background_material = 2130837555;
+			public const int abc_btn_default_mtrl_shape = 2130837555;
 			
 			// aapt resource value: 0x7f020034
-			public const int abc_switch_thumb_material = 2130837556;
+			public const int abc_btn_radio_material = 2130837556;
 			
 			// aapt resource value: 0x7f020035
-			public const int abc_switch_track_mtrl_alpha = 2130837557;
+			public const int abc_btn_radio_to_on_mtrl_000 = 2130837557;
 			
 			// aapt resource value: 0x7f020036
-			public const int abc_tab_indicator_material = 2130837558;
+			public const int abc_btn_radio_to_on_mtrl_015 = 2130837558;
 			
 			// aapt resource value: 0x7f020037
-			public const int abc_tab_indicator_mtrl_alpha = 2130837559;
+			public const int abc_btn_rating_star_off_mtrl_alpha = 2130837559;
 			
 			// aapt resource value: 0x7f020038
-			public const int abc_text_cursor_material = 2130837560;
+			public const int abc_btn_rating_star_on_mtrl_alpha = 2130837560;
 			
 			// aapt resource value: 0x7f020039
-			public const int abc_textfield_activated_mtrl_alpha = 2130837561;
+			public const int abc_btn_switch_to_on_mtrl_00001 = 2130837561;
 			
 			// aapt resource value: 0x7f02003a
-			public const int abc_textfield_default_mtrl_alpha = 2130837562;
+			public const int abc_btn_switch_to_on_mtrl_00012 = 2130837562;
 			
 			// aapt resource value: 0x7f02003b
-			public const int abc_textfield_search_activated_mtrl_alpha = 2130837563;
+			public const int abc_cab_background_internal_bg = 2130837563;
 			
 			// aapt resource value: 0x7f02003c
-			public const int abc_textfield_search_default_mtrl_alpha = 2130837564;
+			public const int abc_cab_background_top_material = 2130837564;
 			
 			// aapt resource value: 0x7f02003d
-			public const int abc_textfield_search_material = 2130837565;
+			public const int abc_cab_background_top_mtrl_alpha = 2130837565;
 			
 			// aapt resource value: 0x7f02003e
-			public const int design_fab_background = 2130837566;
+			public const int abc_control_background_material = 2130837566;
 			
 			// aapt resource value: 0x7f02003f
-			public const int design_snackbar_background = 2130837567;
+			public const int abc_dialog_material_background_dark = 2130837567;
 			
 			// aapt resource value: 0x7f020040
-			public const int ic_cast_dark = 2130837568;
+			public const int abc_dialog_material_background_light = 2130837568;
 			
 			// aapt resource value: 0x7f020041
-			public const int ic_cast_disabled_light = 2130837569;
+			public const int abc_edit_text_material = 2130837569;
 			
 			// aapt resource value: 0x7f020042
-			public const int ic_cast_light = 2130837570;
+			public const int abc_ic_ab_back_mtrl_am_alpha = 2130837570;
 			
 			// aapt resource value: 0x7f020043
-			public const int ic_cast_off_light = 2130837571;
+			public const int abc_ic_clear_mtrl_alpha = 2130837571;
 			
 			// aapt resource value: 0x7f020044
-			public const int ic_cast_on_0_light = 2130837572;
+			public const int abc_ic_commit_search_api_mtrl_alpha = 2130837572;
 			
 			// aapt resource value: 0x7f020045
-			public const int ic_cast_on_1_light = 2130837573;
+			public const int abc_ic_go_search_api_mtrl_alpha = 2130837573;
 			
 			// aapt resource value: 0x7f020046
-			public const int ic_cast_on_2_light = 2130837574;
+			public const int abc_ic_menu_copy_mtrl_am_alpha = 2130837574;
 			
 			// aapt resource value: 0x7f020047
-			public const int ic_cast_on_light = 2130837575;
+			public const int abc_ic_menu_cut_mtrl_alpha = 2130837575;
 			
 			// aapt resource value: 0x7f020048
-			public const int ic_media_pause = 2130837576;
+			public const int abc_ic_menu_moreoverflow_mtrl_alpha = 2130837576;
 			
 			// aapt resource value: 0x7f020049
-			public const int ic_media_play = 2130837577;
+			public const int abc_ic_menu_paste_mtrl_am_alpha = 2130837577;
 			
 			// aapt resource value: 0x7f02004a
-			public const int ic_media_route_disabled_mono_dark = 2130837578;
+			public const int abc_ic_menu_selectall_mtrl_alpha = 2130837578;
 			
 			// aapt resource value: 0x7f02004b
-			public const int ic_media_route_off_mono_dark = 2130837579;
+			public const int abc_ic_menu_share_mtrl_alpha = 2130837579;
 			
 			// aapt resource value: 0x7f02004c
-			public const int ic_media_route_on_0_mono_dark = 2130837580;
+			public const int abc_ic_search_api_mtrl_alpha = 2130837580;
 			
 			// aapt resource value: 0x7f02004d
-			public const int ic_media_route_on_1_mono_dark = 2130837581;
+			public const int abc_ic_voice_search_api_mtrl_alpha = 2130837581;
 			
 			// aapt resource value: 0x7f02004e
-			public const int ic_media_route_on_2_mono_dark = 2130837582;
+			public const int abc_item_background_holo_dark = 2130837582;
 			
 			// aapt resource value: 0x7f02004f
-			public const int ic_media_route_on_mono_dark = 2130837583;
+			public const int abc_item_background_holo_light = 2130837583;
 			
 			// aapt resource value: 0x7f020050
-			public const int ic_pause_dark = 2130837584;
+			public const int abc_list_divider_mtrl_alpha = 2130837584;
 			
 			// aapt resource value: 0x7f020051
-			public const int ic_pause_light = 2130837585;
+			public const int abc_list_focused_holo = 2130837585;
 			
 			// aapt resource value: 0x7f020052
-			public const int ic_play_dark = 2130837586;
+			public const int abc_list_longpressed_holo = 2130837586;
 			
 			// aapt resource value: 0x7f020053
-			public const int ic_play_light = 2130837587;
+			public const int abc_list_pressed_holo_dark = 2130837587;
 			
 			// aapt resource value: 0x7f020054
-			public const int ic_setting_dark = 2130837588;
+			public const int abc_list_pressed_holo_light = 2130837588;
 			
 			// aapt resource value: 0x7f020055
-			public const int ic_setting_light = 2130837589;
+			public const int abc_list_selector_background_transition_holo_dark = 2130837589;
 			
 			// aapt resource value: 0x7f020056
-			public const int icon = 2130837590;
+			public const int abc_list_selector_background_transition_holo_light = 2130837590;
 			
 			// aapt resource value: 0x7f020057
-			public const int inputlogo = 2130837591;
+			public const int abc_list_selector_disabled_holo_dark = 2130837591;
 			
 			// aapt resource value: 0x7f020058
-			public const int mr_ic_cast_dark = 2130837592;
+			public const int abc_list_selector_disabled_holo_light = 2130837592;
 			
 			// aapt resource value: 0x7f020059
-			public const int mr_ic_cast_light = 2130837593;
+			public const int abc_list_selector_holo_dark = 2130837593;
 			
 			// aapt resource value: 0x7f02005a
-			public const int mr_ic_media_route_connecting_mono_dark = 2130837594;
+			public const int abc_list_selector_holo_light = 2130837594;
 			
 			// aapt resource value: 0x7f02005b
-			public const int mr_ic_media_route_connecting_mono_light = 2130837595;
+			public const int abc_menu_hardkey_panel_mtrl_mult = 2130837595;
 			
 			// aapt resource value: 0x7f02005c
-			public const int mr_ic_media_route_mono_dark = 2130837596;
+			public const int abc_popup_background_mtrl_mult = 2130837596;
 			
 			// aapt resource value: 0x7f02005d
-			public const int mr_ic_media_route_mono_light = 2130837597;
+			public const int abc_ratingbar_full_material = 2130837597;
 			
 			// aapt resource value: 0x7f02005e
-			public const int mr_ic_pause_dark = 2130837598;
+			public const int abc_spinner_mtrl_am_alpha = 2130837598;
 			
 			// aapt resource value: 0x7f02005f
-			public const int mr_ic_pause_light = 2130837599;
+			public const int abc_spinner_textfield_background_material = 2130837599;
 			
 			// aapt resource value: 0x7f020060
-			public const int mr_ic_play_dark = 2130837600;
+			public const int abc_switch_thumb_material = 2130837600;
 			
 			// aapt resource value: 0x7f020061
-			public const int mr_ic_play_light = 2130837601;
+			public const int abc_switch_track_mtrl_alpha = 2130837601;
 			
 			// aapt resource value: 0x7f020062
-			public const int mr_ic_settings_dark = 2130837602;
+			public const int abc_tab_indicator_material = 2130837602;
 			
 			// aapt resource value: 0x7f020063
-			public const int mr_ic_settings_light = 2130837603;
+			public const int abc_tab_indicator_mtrl_alpha = 2130837603;
 			
 			// aapt resource value: 0x7f020064
-			public const int notification_template_icon_bg = 2130837604;
+			public const int abc_text_cursor_material = 2130837604;
+			
+			// aapt resource value: 0x7f020065
+			public const int abc_textfield_activated_mtrl_alpha = 2130837605;
+			
+			// aapt resource value: 0x7f020066
+			public const int abc_textfield_default_mtrl_alpha = 2130837606;
+			
+			// aapt resource value: 0x7f020067
+			public const int abc_textfield_search_activated_mtrl_alpha = 2130837607;
+			
+			// aapt resource value: 0x7f020068
+			public const int abc_textfield_search_default_mtrl_alpha = 2130837608;
+			
+			// aapt resource value: 0x7f020069
+			public const int abc_textfield_search_material = 2130837609;
+			
+			// aapt resource value: 0x7f02006a
+			public const int amx38_image_resized = 2130837610;
+			
+			// aapt resource value: 0x7f02006b
+			public const int amx40_image_resized = 2130837611;
+			
+			// aapt resource value: 0x7f02006c
+			public const int amx50_foch_image_resized = 2130837612;
+			
+			// aapt resource value: 0x7f02006d
+			public const int amx_105am_image_resized = 2130837613;
+			
+			// aapt resource value: 0x7f02006e
+			public const int amx_13_75_image_resized = 2130837614;
+			
+			// aapt resource value: 0x7f02006f
+			public const int amx_13_90_image_resized = 2130837615;
+			
+			// aapt resource value: 0x7f020070
+			public const int amx_13f3am_image_resized = 2130837616;
+			
+			// aapt resource value: 0x7f020071
+			public const int amx_ob_am105_image_resized = 2130837617;
+			
+			// aapt resource value: 0x7f020072
+			public const int arl_v39_image_resized = 2130837618;
+			
+			// aapt resource value: 0x7f020073
+			public const int at_1_image_resized = 2130837619;
+			
+			// aapt resource value: 0x7f020074
+			public const int b1_image_resized = 2130837620;
+			
+			// aapt resource value: 0x7f020075
+			public const int b_1bis_captured_image_resized = 2130837621;
+			
+			// aapt resource value: 0x7f020076
+			public const int bat_chatillon155_55_image_resized = 2130837622;
+			
+			// aapt resource value: 0x7f020077
+			public const int bat_chatillon155_58_image_resized = 2130837623;
+			
+			// aapt resource value: 0x7f020078
+			public const int bat_chatillon25t_image_resized = 2130837624;
+			
+			// aapt resource value: 0x7f020079
+			public const int battletested4 = 2130837625;
+			
+			// aapt resource value: 0x7f02007a
+			public const int bdr_g1b_image_resized = 2130837626;
+			
+			// aapt resource value: 0x7f02007b
+			public const int bt_2_image_resized = 2130837627;
+			
+			// aapt resource value: 0x7f02007c
+			public const int bt_7_image_resized = 2130837628;
+			
+			// aapt resource value: 0x7f02007d
+			public const int bt_sv_image_resized = 2130837629;
+			
+			// aapt resource value: 0x7f02007e
+			public const int ch01_type59_image_resized = 2130837630;
+			
+			// aapt resource value: 0x7f02007f
+			public const int ch02_type62_image_resized = 2130837631;
+			
+			// aapt resource value: 0x7f020080
+			public const int ch03_wz_111_image_resized = 2130837632;
+			
+			// aapt resource value: 0x7f020081
+			public const int ch04_t34_1_image_resized = 2130837633;
+			
+			// aapt resource value: 0x7f020082
+			public const int ch05_t34_2_image_resized = 2130837634;
+			
+			// aapt resource value: 0x7f020083
+			public const int ch06_renault_nc31_image_resized = 2130837635;
+			
+			// aapt resource value: 0x7f020084
+			public const int ch07_vickers_mke_type_bt26_image_resized = 2130837636;
+			
+			// aapt resource value: 0x7f020085
+			public const int ch08_type97_chi_ha_image_resized = 2130837637;
+			
+			// aapt resource value: 0x7f020086
+			public const int ch09_m5_image_resized = 2130837638;
+			
+			// aapt resource value: 0x7f020087
+			public const int ch10_is2_image_resized = 2130837639;
+			
+			// aapt resource value: 0x7f020088
+			public const int ch11_110_image_resized = 2130837640;
+			
+			// aapt resource value: 0x7f020089
+			public const int ch12_111_1_2_3_image_resized = 2130837641;
+			
+			// aapt resource value: 0x7f02008a
+			public const int ch14_t34_3_image_resized = 2130837642;
+			
+			// aapt resource value: 0x7f02008b
+			public const int ch15_59_16_image_resized = 2130837643;
+			
+			// aapt resource value: 0x7f02008c
+			public const int ch16_wz_131_image_resized = 2130837644;
+			
+			// aapt resource value: 0x7f02008d
+			public const int ch17_wz131_1_wz132_image_resized = 2130837645;
+			
+			// aapt resource value: 0x7f02008e
+			public const int ch18_wz_120_image_resized = 2130837646;
+			
+			// aapt resource value: 0x7f02008f
+			public const int ch19_121_image_resized = 2130837647;
+			
+			// aapt resource value: 0x7f020090
+			public const int ch20_type58_image_resized = 2130837648;
+			
+			// aapt resource value: 0x7f020091
+			public const int ch21_t34_image_resized = 2130837649;
+			
+			// aapt resource value: 0x7f020092
+			public const int ch22_113_image_resized = 2130837650;
+			
+			// aapt resource value: 0x7f020093
+			public const int ch23_112_image_resized = 2130837651;
+			
+			// aapt resource value: 0x7f020094
+			public const int ch24_type64_image_resized = 2130837652;
+			
+			// aapt resource value: 0x7f020095
+			public const int ch26_59_patton_image_resized = 2130837653;
+			
+			// aapt resource value: 0x7f020096
+			public const int chi_he_image_resized = 2130837654;
+			
+			// aapt resource value: 0x7f020097
+			public const int chi_nu_kai_image_resized = 2130837655;
+			
+			// aapt resource value: 0x7f020098
+			public const int chi_ri_image_resized = 2130837656;
+			
+			// aapt resource value: 0x7f020099
+			public const int chi_to_image_resized = 2130837657;
+			
+			// aapt resource value: 0x7f02009a
+			public const int churchill_ll_image_resized = 2130837658;
+			
+			// aapt resource value: 0x7f02009b
+			public const int cz01_skoda_t40_image_resized = 2130837659;
+			
+			// aapt resource value: 0x7f02009c
+			public const int cz02_tvp_t50_image_resized = 2130837660;
+			
+			// aapt resource value: 0x7f02009d
+			public const int cz03_lt_vz35_image_resized = 2130837661;
+			
+			// aapt resource value: 0x7f02009e
+			public const int cz04_t50_51_image_resized = 2130837662;
+			
+			// aapt resource value: 0x7f02009f
+			public const int cz05_t34_100_image_resized = 2130837663;
+			
+			// aapt resource value: 0x7f0200a0
+			public const int cz06_kolohousenka_image_resized = 2130837664;
+			
+			// aapt resource value: 0x7f0200a1
+			public const int cz07_tvp_46_image_resized = 2130837665;
+			
+			// aapt resource value: 0x7f0200a2
+			public const int cz08_t_25_image_resized = 2130837666;
+			
+			// aapt resource value: 0x7f0200a3
+			public const int cz09_t_24_image_resized = 2130837667;
+			
+			// aapt resource value: 0x7f0200a4
+			public const int cz10_lt_vz38_image_resized = 2130837668;
+			
+			// aapt resource value: 0x7f0200a5
+			public const int cz11_v_8_h_image_resized = 2130837669;
+			
+			// aapt resource value: 0x7f0200a6
+			public const int d1_image_resized = 2130837670;
+			
+			// aapt resource value: 0x7f0200a7
+			public const int d2_image_resized = 2130837671;
+			
+			// aapt resource value: 0x7f0200a8
+			public const int design_fab_background = 2130837672;
+			
+			// aapt resource value: 0x7f0200a9
+			public const int design_snackbar_background = 2130837673;
+			
+			// aapt resource value: 0x7f0200aa
+			public const int dickermax_image_resized = 2130837674;
+			
+			// aapt resource value: 0x7f0200ab
+			public const int dw_ii_image_resized = 2130837675;
+			
+			// aapt resource value: 0x7f0200ac
+			public const int e50_ausf_m_image_resized = 2130837676;
+			
+			// aapt resource value: 0x7f0200ad
+			public const int e_100_image_resized = 2130837677;
+			
+			// aapt resource value: 0x7f0200ae
+			public const int e_50_image_resized = 2130837678;
+			
+			// aapt resource value: 0x7f0200af
+			public const int e_75_image_resized = 2130837679;
+			
+			// aapt resource value: 0x7f0200b0
+			public const int elc_amx_image_resized = 2130837680;
+			
+			// aapt resource value: 0x7f0200b1
+			public const int even = 2130837681;
+			
+			// aapt resource value: 0x7f0200b2
+			public const int f06_arl_44_image_resized = 2130837682;
+			
+			// aapt resource value: 0x7f0200b3
+			public const int f07_amx_m4_1945_image_resized = 2130837683;
+			
+			// aapt resource value: 0x7f0200b4
+			public const int f08_amx_50_100_image_resized = 2130837684;
+			
+			// aapt resource value: 0x7f0200b5
+			public const int f09_amx_50_120_image_resized = 2130837685;
+			
+			// aapt resource value: 0x7f0200b6
+			public const int f10_amx_50b_image_resized = 2130837686;
+			
+			// aapt resource value: 0x7f0200b7
+			public const int f11_renault_g1r_image_resized = 2130837687;
+			
+			// aapt resource value: 0x7f0200b8
+			public const int f15_amx_12t_image_resized = 2130837688;
+			
+			// aapt resource value: 0x7f0200b9
+			public const int f28_105_lefh18b2_image_resized = 2130837689;
+			
+			// aapt resource value: 0x7f0200ba
+			public const int f35_amx_ac_mle1946_image_resized = 2130837690;
+			
+			// aapt resource value: 0x7f0200bb
+			public const int f36_amx_ac_mle1948_image_resized = 2130837691;
+			
+			// aapt resource value: 0x7f0200bc
+			public const int f44_somua_s35_image_resized = 2130837692;
+			
+			// aapt resource value: 0x7f0200bd
+			public const int f49_renaultr35_image_resized = 2130837693;
+			
+			// aapt resource value: 0x7f0200be
+			public const int f50_fcm36_20t_image_resized = 2130837694;
+			
+			// aapt resource value: 0x7f0200bf
+			public const int f64_amx_50fosh_155_image_resized = 2130837695;
+			
+			// aapt resource value: 0x7f0200c0
+			public const int f65_fcm_50t_image_resized = 2130837696;
+			
+			// aapt resource value: 0x7f0200c1
+			public const int f68_amx_chasseur_de_char_46_image_resized = 2130837697;
+			
+			// aapt resource value: 0x7f0200c2
+			public const int f69_amx13_57_100_grandfinal_image_resized = 2130837698;
+			
+			// aapt resource value: 0x7f0200c3
+			public const int f70_sarl42_image_resized = 2130837699;
+			
+			// aapt resource value: 0x7f0200c4
+			public const int f71_amx_30_prototype_image_resized = 2130837700;
+			
+			// aapt resource value: 0x7f0200c5
+			public const int f72_amx_30_image_resized = 2130837701;
+			
+			// aapt resource value: 0x7f0200c6
+			public const int f73_m4a1_revalorise_image_resized = 2130837702;
+			
+			// aapt resource value: 0x7f0200c7
+			public const int fcm_36pak40_image_resized = 2130837703;
+			
+			// aapt resource value: 0x7f0200c8
+			public const int ferdinand_image_resized = 2130837704;
+			
+			// aapt resource value: 0x7f0200c9
+			public const int g02_hummel_image_resized = 2130837705;
+			
+			// aapt resource value: 0x7f0200ca
+			public const int g06_pzii_image_resized = 2130837706;
+			
+			// aapt resource value: 0x7f0200cb
+			public const int g07_pz35t_image_resized = 2130837707;
+			
+			// aapt resource value: 0x7f0200cc
+			public const int g100_gtraktor_krupp_image_resized = 2130837708;
+			
+			// aapt resource value: 0x7f0200cd
+			public const int g101_stug_iii_image_resized = 2130837709;
+			
+			// aapt resource value: 0x7f0200ce
+			public const int g103_ru_251_image_resized = 2130837710;
+			
+			// aapt resource value: 0x7f0200cf
+			public const int g104_stug_iv_image_resized = 2130837711;
+			
+			// aapt resource value: 0x7f0200d0
+			public const int g105_t_55_nva_ddr_image_resized = 2130837712;
+			
+			// aapt resource value: 0x7f0200d1
+			public const int g106_pzkpfwpanther_ausff_image_resized = 2130837713;
+			
+			// aapt resource value: 0x7f0200d2
+			public const int g108_pzkpfwii_ausfd_image_resized = 2130837714;
+			
+			// aapt resource value: 0x7f0200d3
+			public const int g113_sp_i_c_image_resized = 2130837715;
+			
+			// aapt resource value: 0x7f0200d4
+			public const int g117_toldi_iii_image_resized = 2130837716;
+			
+			// aapt resource value: 0x7f0200d5
+			public const int g119_pz58_mutz_image_resized = 2130837717;
+			
+			// aapt resource value: 0x7f0200d6
+			public const int g11_bison_i_image_resized = 2130837718;
+			
+			// aapt resource value: 0x7f0200d7
+			public const int g13_vk3001h_image_resized = 2130837719;
+			
+			// aapt resource value: 0x7f0200d8
+			public const int g15_vk3601h_image_resized = 2130837720;
+			
+			// aapt resource value: 0x7f0200d9
+			public const int g16_pzvib_tiger_ii_image_resized = 2130837721;
+			
+			// aapt resource value: 0x7f0200da
+			public const int g17_jagdpziv_image_resized = 2130837722;
+			
+			// aapt resource value: 0x7f0200db
+			public const int g19_wespe_image_resized = 2130837723;
+			
+			// aapt resource value: 0x7f0200dc
+			public const int g20_marder_ii_image_resized = 2130837724;
+			
+			// aapt resource value: 0x7f0200dd
+			public const int g21_panzerjager_i_image_resized = 2130837725;
+			
+			// aapt resource value: 0x7f0200de
+			public const int g22_sturmpanzer_ii_image_resized = 2130837726;
+			
+			// aapt resource value: 0x7f0200df
+			public const int g23_grille_image_resized = 2130837727;
+			
+			// aapt resource value: 0x7f0200e0
+			public const int g25_pzii_luchs_image_resized = 2130837728;
+			
+			// aapt resource value: 0x7f0200e1
+			public const int g26_vk1602_image_resized = 2130837729;
+			
+			// aapt resource value: 0x7f0200e2
+			public const int g34_s35_captured_image_resized = 2130837730;
+			
+			// aapt resource value: 0x7f0200e3
+			public const int g36_pzii_j_image_resized = 2130837731;
+			
+			// aapt resource value: 0x7f0200e4
+			public const int g39_marder_iii_image_resized = 2130837732;
+			
+			// aapt resource value: 0x7f0200e5
+			public const int g40_nashorn_image_resized = 2130837733;
+			
+			// aapt resource value: 0x7f0200e6
+			public const int g44_jagdtiger_image_resized = 2130837734;
+			
+			// aapt resource value: 0x7f0200e7
+			public const int g45_g_tiger_image_resized = 2130837735;
+			
+			// aapt resource value: 0x7f0200e8
+			public const int g46_t_25_image_resized = 2130837736;
+			
+			// aapt resource value: 0x7f0200e9
+			public const int g48_e_25_image_resized = 2130837737;
+			
+			// aapt resource value: 0x7f0200ea
+			public const int g52_pz38_na_image_resized = 2130837738;
+			
+			// aapt resource value: 0x7f0200eb
+			public const int g65_jagdtiger_sdkfz_185_image_resized = 2130837739;
+			
+			// aapt resource value: 0x7f0200ec
+			public const int g71_jagdpantherii_image_resized = 2130837740;
+			
+			// aapt resource value: 0x7f0200ed
+			public const int g78_panther_m10_image_resized = 2130837741;
+			
+			// aapt resource value: 0x7f0200ee
+			public const int g82_pz_ii_ausfg_image_resized = 2130837742;
+			
+			// aapt resource value: 0x7f0200ef
+			public const int g86_vk2001db_image_resized = 2130837743;
+			
+			// aapt resource value: 0x7f0200f0
+			public const int g89_leopard1_image_resized = 2130837744;
+			
+			// aapt resource value: 0x7f0200f1
+			public const int g91_pro_ag_a_image_resized = 2130837745;
+			
+			// aapt resource value: 0x7f0200f2
+			public const int g92_vk7201_image_resized = 2130837746;
+			
+			// aapt resource value: 0x7f0200f3
+			public const int g93_gw_mk_vie_image_resized = 2130837747;
+			
+			// aapt resource value: 0x7f0200f4
+			public const int g_e_image_resized = 2130837748;
+			
+			// aapt resource value: 0x7f0200f5
+			public const int g_panther_image_resized = 2130837749;
+			
+			// aapt resource value: 0x7f0200f6
+			public const int gaz_74b_image_resized = 2130837750;
+			
+			// aapt resource value: 0x7f0200f7
+			public const int gb01_medium_mark_i_image_resized = 2130837751;
+			
+			// aapt resource value: 0x7f0200f8
+			public const int gb03_cruiser_mk_i_image_resized = 2130837752;
+			
+			// aapt resource value: 0x7f0200f9
+			public const int gb04_valentine_image_resized = 2130837753;
+			
+			// aapt resource value: 0x7f0200fa
+			public const int gb05_vickers_medium_mk_ii_image_resized = 2130837754;
+			
+			// aapt resource value: 0x7f0200fb
+			public const int gb06_vickers_medium_mk_iii_image_resized = 2130837755;
+			
+			// aapt resource value: 0x7f0200fc
+			public const int gb07_matilda_image_resized = 2130837756;
+			
+			// aapt resource value: 0x7f0200fd
+			public const int gb08_churchill_i_image_resized = 2130837757;
+			
+			// aapt resource value: 0x7f0200fe
+			public const int gb09_churchill_vii_image_resized = 2130837758;
+			
+			// aapt resource value: 0x7f0200ff
+			public const int gb10_black_prince_image_resized = 2130837759;
+			
+			// aapt resource value: 0x7f020100
+			public const int gb11_caernarvon_image_resized = 2130837760;
+			
+			// aapt resource value: 0x7f020101
+			public const int gb12_conqueror_image_resized = 2130837761;
+			
+			// aapt resource value: 0x7f020102
+			public const int gb13_fv215b_image_resized = 2130837762;
+			
+			// aapt resource value: 0x7f020103
+			public const int gb14_m2_image_resized = 2130837763;
+			
+			// aapt resource value: 0x7f020104
+			public const int gb15_stuart_i_image_resized = 2130837764;
+			
+			// aapt resource value: 0x7f020105
+			public const int gb17_grant_i_image_resized = 2130837765;
+			
+			// aapt resource value: 0x7f020106
+			public const int gb19_sherman_firefly_image_resized = 2130837766;
+			
+			// aapt resource value: 0x7f020107
+			public const int gb20_crusader_image_resized = 2130837767;
+			
+			// aapt resource value: 0x7f020108
+			public const int gb21_cromwell_image_resized = 2130837768;
+			
+			// aapt resource value: 0x7f020109
+			public const int gb22_comet_image_resized = 2130837769;
+			
+			// aapt resource value: 0x7f02010a
+			public const int gb23_centurion_image_resized = 2130837770;
+			
+			// aapt resource value: 0x7f02010b
+			public const int gb24_centurion_mk3_image_resized = 2130837771;
+			
+			// aapt resource value: 0x7f02010c
+			public const int gb25_loyd_gun_carriage_image_resized = 2130837772;
+			
+			// aapt resource value: 0x7f02010d
+			public const int gb26_birch_gun_image_resized = 2130837773;
+			
+			// aapt resource value: 0x7f02010e
+			public const int gb27_sexton_image_resized = 2130837774;
+			
+			// aapt resource value: 0x7f02010f
+			public const int gb28_bishop_image_resized = 2130837775;
+			
+			// aapt resource value: 0x7f020110
+			public const int gb29_crusader_5inch_image_resized = 2130837776;
+			
+			// aapt resource value: 0x7f020111
+			public const int gb30_fv3805_image_resized = 2130837777;
+			
+			// aapt resource value: 0x7f020112
+			public const int gb31_conqueror_gun_image_resized = 2130837778;
+			
+			// aapt resource value: 0x7f020113
+			public const int gb32_tortoise_image_resized = 2130837779;
+			
+			// aapt resource value: 0x7f020114
+			public const int gb39_universal_carrierqf2_image_resized = 2130837780;
+			
+			// aapt resource value: 0x7f020115
+			public const int gb40_gun_carrier_churchill_image_resized = 2130837781;
+			
+			// aapt resource value: 0x7f020116
+			public const int gb41_challenger_image_resized = 2130837782;
+			
+			// aapt resource value: 0x7f020117
+			public const int gb42_valentine_at_image_resized = 2130837783;
+			
+			// aapt resource value: 0x7f020118
+			public const int gb44_archer_image_resized = 2130837784;
+			
+			// aapt resource value: 0x7f020119
+			public const int gb45_achilles_iic_image_resized = 2130837785;
+			
+			// aapt resource value: 0x7f02011a
+			public const int gb48_fv215b_183_image_resized = 2130837786;
+			
+			// aapt resource value: 0x7f02011b
+			public const int gb50_sherman_iii_image_resized = 2130837787;
+			
+			// aapt resource value: 0x7f02011c
+			public const int gb51_excelsior_image_resized = 2130837788;
+			
+			// aapt resource value: 0x7f02011d
+			public const int gb52_a45_image_resized = 2130837789;
+			
+			// aapt resource value: 0x7f02011e
+			public const int gb57_alecto_image_resized = 2130837790;
+			
+			// aapt resource value: 0x7f02011f
+			public const int gb58_cruiser_mk_iii_image_resized = 2130837791;
+			
+			// aapt resource value: 0x7f020120
+			public const int gb59_cruiser_mk_iv_image_resized = 2130837792;
+			
+			// aapt resource value: 0x7f020121
+			public const int gb60_covenanter_image_resized = 2130837793;
+			
+			// aapt resource value: 0x7f020122
+			public const int gb63_tog_ii_image_resized = 2130837794;
+			
+			// aapt resource value: 0x7f020123
+			public const int gb68_matilda_black_prince_image_resized = 2130837795;
+			
+			// aapt resource value: 0x7f020124
+			public const int gb69_cruiser_mk_ii_image_resized = 2130837796;
+			
+			// aapt resource value: 0x7f020125
+			public const int gb70_n_fv4202_105_image_resized = 2130837797;
+			
+			// aapt resource value: 0x7f020126
+			public const int gb71_at_15a_image_resized = 2130837798;
+			
+			// aapt resource value: 0x7f020127
+			public const int gb72_at15_image_resized = 2130837799;
+			
+			// aapt resource value: 0x7f020128
+			public const int gb73_at2_image_resized = 2130837800;
+			
+			// aapt resource value: 0x7f020129
+			public const int gb74_at8_image_resized = 2130837801;
+			
+			// aapt resource value: 0x7f02012a
+			public const int gb75_at7_image_resized = 2130837802;
+			
+			// aapt resource value: 0x7f02012b
+			public const int gb76_mk_vic_image_resized = 2130837803;
+			
+			// aapt resource value: 0x7f02012c
+			public const int gb77_fv304_image_resized = 2130837804;
+			
+			// aapt resource value: 0x7f02012d
+			public const int gb78_sexton_i_image_resized = 2130837805;
+			
+			// aapt resource value: 0x7f02012e
+			public const int gb79_fv206_image_resized = 2130837806;
+			
+			// aapt resource value: 0x7f02012f
+			public const int gb80_charioteer_image_resized = 2130837807;
+			
+			// aapt resource value: 0x7f020130
+			public const int gb81_fv4004_image_resized = 2130837808;
+			
+			// aapt resource value: 0x7f020131
+			public const int gb83_fv4005_image_resized = 2130837809;
+			
+			// aapt resource value: 0x7f020132
+			public const int gb85_cromwell_berlin_image_resized = 2130837810;
+			
+			// aapt resource value: 0x7f020133
+			public const int gb86_centurion_action_x_image_resized = 2130837811;
+			
+			// aapt resource value: 0x7f020134
+			public const int gw_tiger_p_image_resized = 2130837812;
+			
+			// aapt resource value: 0x7f020135
+			public const int h39_captured_image_resized = 2130837813;
+			
+			// aapt resource value: 0x7f020136
+			public const int handofdeath = 2130837814;
+			
+			// aapt resource value: 0x7f020137
+			public const int hetzer_image_resized = 2130837815;
+			
+			// aapt resource value: 0x7f020138
+			public const int hotchkiss_h35_image_resized = 2130837816;
+			
+			// aapt resource value: 0x7f020139
+			public const int ic_cast_dark = 2130837817;
+			
+			// aapt resource value: 0x7f02013a
+			public const int ic_cast_disabled_light = 2130837818;
+			
+			// aapt resource value: 0x7f02013b
+			public const int ic_cast_light = 2130837819;
+			
+			// aapt resource value: 0x7f02013c
+			public const int ic_cast_off_light = 2130837820;
+			
+			// aapt resource value: 0x7f02013d
+			public const int ic_cast_on_0_light = 2130837821;
+			
+			// aapt resource value: 0x7f02013e
+			public const int ic_cast_on_1_light = 2130837822;
+			
+			// aapt resource value: 0x7f02013f
+			public const int ic_cast_on_2_light = 2130837823;
+			
+			// aapt resource value: 0x7f020140
+			public const int ic_cast_on_light = 2130837824;
+			
+			// aapt resource value: 0x7f020141
+			public const int ic_media_pause = 2130837825;
+			
+			// aapt resource value: 0x7f020142
+			public const int ic_media_play = 2130837826;
+			
+			// aapt resource value: 0x7f020143
+			public const int ic_media_route_disabled_mono_dark = 2130837827;
+			
+			// aapt resource value: 0x7f020144
+			public const int ic_media_route_off_mono_dark = 2130837828;
+			
+			// aapt resource value: 0x7f020145
+			public const int ic_media_route_on_0_mono_dark = 2130837829;
+			
+			// aapt resource value: 0x7f020146
+			public const int ic_media_route_on_1_mono_dark = 2130837830;
+			
+			// aapt resource value: 0x7f020147
+			public const int ic_media_route_on_2_mono_dark = 2130837831;
+			
+			// aapt resource value: 0x7f020148
+			public const int ic_media_route_on_mono_dark = 2130837832;
+			
+			// aapt resource value: 0x7f020149
+			public const int ic_pause_dark = 2130837833;
+			
+			// aapt resource value: 0x7f02014a
+			public const int ic_pause_light = 2130837834;
+			
+			// aapt resource value: 0x7f02014b
+			public const int ic_play_dark = 2130837835;
+			
+			// aapt resource value: 0x7f02014c
+			public const int ic_play_light = 2130837836;
+			
+			// aapt resource value: 0x7f02014d
+			public const int ic_setting_dark = 2130837837;
+			
+			// aapt resource value: 0x7f02014e
+			public const int ic_setting_light = 2130837838;
+			
+			// aapt resource value: 0x7f02014f
+			public const int icon = 2130837839;
+			
+			// aapt resource value: 0x7f020150
+			public const int iconapp = 2130837840;
+			
+			// aapt resource value: 0x7f020151
+			public const int indien_panzer_image_resized = 2130837841;
+			
+			// aapt resource value: 0x7f020152
+			public const int inputlogo = 2130837842;
+			
+			// aapt resource value: 0x7f020153
+			public const int ironman = 2130837843;
+			
+			// aapt resource value: 0x7f020154
+			public const int is_7_image_resized = 2130837844;
+			
+			// aapt resource value: 0x7f020155
+			public const int isu_152_image_resized = 2130837845;
+			
+			// aapt resource value: 0x7f020156
+			public const int j03_ha_go_image_resized = 2130837846;
+			
+			// aapt resource value: 0x7f020157
+			public const int j04_ke_ni_image_resized = 2130837847;
+			
+			// aapt resource value: 0x7f020158
+			public const int j06_ke_ho_image_resized = 2130837848;
+			
+			// aapt resource value: 0x7f020159
+			public const int j07_chi_ha_image_resized = 2130837849;
+			
+			// aapt resource value: 0x7f02015a
+			public const int j08_chi_nu_image_resized = 2130837850;
+			
+			// aapt resource value: 0x7f02015b
+			public const int j15_chi_ni_image_resized = 2130837851;
+			
+			// aapt resource value: 0x7f02015c
+			public const int j18_sta_2_3_image_resized = 2130837852;
+			
+			// aapt resource value: 0x7f02015d
+			public const int j19_tiger_i_jpn_image_resized = 2130837853;
+			
+			// aapt resource value: 0x7f02015e
+			public const int j20_type_2605_image_resized = 2130837854;
+			
+			// aapt resource value: 0x7f02015f
+			public const int j21_type_91_image_resized = 2130837855;
+			
+			// aapt resource value: 0x7f020160
+			public const int j22_type_95_image_resized = 2130837856;
+			
+			// aapt resource value: 0x7f020161
+			public const int j23_mi_to_image_resized = 2130837857;
+			
+			// aapt resource value: 0x7f020162
+			public const int j24_mi_to_130_tons_image_resized = 2130837858;
+			
+			// aapt resource value: 0x7f020163
+			public const int j25_type_4_image_resized = 2130837859;
+			
+			// aapt resource value: 0x7f020164
+			public const int j26_type_89_image_resized = 2130837860;
+			
+			// aapt resource value: 0x7f020165
+			public const int j27_o_i_120_image_resized = 2130837861;
+			
+			// aapt resource value: 0x7f020166
+			public const int j28_o_i_100_image_resized = 2130837862;
+			
+			// aapt resource value: 0x7f020167
+			public const int jagdpanther_image_resized = 2130837863;
+			
+			// aapt resource value: 0x7f020168
+			public const int jagdpz_e100_image_resized = 2130837864;
+			
+			// aapt resource value: 0x7f020169
+			public const int kv2_image_resized = 2130837865;
+			
+			// aapt resource value: 0x7f02016a
+			public const int kv4_image_resized = 2130837866;
+			
+			// aapt resource value: 0x7f02016b
+			public const int kv_13_image_resized = 2130837867;
+			
+			// aapt resource value: 0x7f02016c
+			public const int kv_1s_image_resized = 2130837868;
+			
+			// aapt resource value: 0x7f02016d
+			public const int lbz1 = 2130837869;
+			
+			// aapt resource value: 0x7f02016e
+			public const int lbz2 = 2130837870;
+			
+			// aapt resource value: 0x7f02016f
+			public const int logoloseview1 = 2130837871;
+			
+			// aapt resource value: 0x7f020170
+			public const int logowinview = 2130837872;
+			
+			// aapt resource value: 0x7f020171
+			public const int lorraine155_50_image_resized = 2130837873;
+			
+			// aapt resource value: 0x7f020172
+			public const int lorraine155_51_image_resized = 2130837874;
+			
+			// aapt resource value: 0x7f020173
+			public const int lorraine39_l_am_image_resized = 2130837875;
+			
+			// aapt resource value: 0x7f020174
+			public const int lorraine40t_image_resized = 2130837876;
+			
+			// aapt resource value: 0x7f020175
+			public const int lowe_image_resized = 2130837877;
+			
+			// aapt resource value: 0x7f020176
+			public const int ltraktor_image_resized = 2130837878;
+			
+			// aapt resource value: 0x7f020177
+			public const int m103_image_resized = 2130837879;
+			
+			// aapt resource value: 0x7f020178
+			public const int m12_image_resized = 2130837880;
+			
+			// aapt resource value: 0x7f020179
+			public const int m18_hellcat_image_resized = 2130837881;
+			
+			// aapt resource value: 0x7f02017a
+			public const int m22_locust_image_resized = 2130837882;
+			
+			// aapt resource value: 0x7f02017b
+			public const int m24_chaffee_image_resized = 2130837883;
+			
+			// aapt resource value: 0x7f02017c
+			public const int m36_slagger_image_resized = 2130837884;
+			
+			// aapt resource value: 0x7f02017d
+			public const int m37_image_resized = 2130837885;
+			
+			// aapt resource value: 0x7f02017e
+			public const int m3_grant_image_resized = 2130837886;
+			
+			// aapt resource value: 0x7f02017f
+			public const int m3_stuart_ll_image_resized = 2130837887;
+			
+			// aapt resource value: 0x7f020180
+			public const int m40m43_image_resized = 2130837888;
+			
+			// aapt resource value: 0x7f020181
+			public const int m41_bulldog_image_resized = 2130837889;
+			
+			// aapt resource value: 0x7f020182
+			public const int m4a2e4_image_resized = 2130837890;
+			
+			// aapt resource value: 0x7f020183
+			public const int m4a3e8_sherman_image_resized = 2130837891;
+			
+			// aapt resource value: 0x7f020184
+			public const int m5_stuart_image_resized = 2130837892;
+			
+			// aapt resource value: 0x7f020185
+			public const int m60_image_resized = 2130837893;
+			
+			// aapt resource value: 0x7f020186
+			public const int m6_image_resized = 2130837894;
+			
+			// aapt resource value: 0x7f020187
+			public const int m8a1_image_resized = 2130837895;
+			
+			// aapt resource value: 0x7f020188
+			public const int matilda_ii_ll_image_resized = 2130837896;
+			
+			// aapt resource value: 0x7f020189
+			public const int maus_image_resized = 2130837897;
+			
+			// aapt resource value: 0x7f02018a
+			public const int medalfadin = 2130837898;
+			
+			// aapt resource value: 0x7f02018b
+			public const int medalleclerc2 = 2130837899;
+			
+			// aapt resource value: 0x7f02018c
+			public const int mr_ic_cast_dark = 2130837900;
+			
+			// aapt resource value: 0x7f02018d
+			public const int mr_ic_cast_light = 2130837901;
+			
+			// aapt resource value: 0x7f02018e
+			public const int mr_ic_media_route_connecting_mono_dark = 2130837902;
+			
+			// aapt resource value: 0x7f02018f
+			public const int mr_ic_media_route_connecting_mono_light = 2130837903;
+			
+			// aapt resource value: 0x7f020190
+			public const int mr_ic_media_route_mono_dark = 2130837904;
+			
+			// aapt resource value: 0x7f020191
+			public const int mr_ic_media_route_mono_light = 2130837905;
+			
+			// aapt resource value: 0x7f020192
+			public const int mr_ic_pause_dark = 2130837906;
+			
+			// aapt resource value: 0x7f020193
+			public const int mr_ic_pause_light = 2130837907;
+			
+			// aapt resource value: 0x7f020194
+			public const int mr_ic_play_dark = 2130837908;
+			
+			// aapt resource value: 0x7f020195
+			public const int mr_ic_play_light = 2130837909;
+			
+			// aapt resource value: 0x7f020196
+			public const int mr_ic_settings_dark = 2130837910;
+			
+			// aapt resource value: 0x7f020197
+			public const int mr_ic_settings_light = 2130837911;
+			
+			// aapt resource value: 0x7f020198
+			public const int mt25_image_resized = 2130837912;
+			
+			// aapt resource value: 0x7f020199
+			public const int nc27_image_resized = 2130837913;
+			
+			// aapt resource value: 0x7f020227
+			public const int notification_template_icon_bg = 2130838055;
+			
+			// aapt resource value: 0x7f02019a
+			public const int object263_image_resized = 2130837914;
+			
+			// aapt resource value: 0x7f02019b
+			public const int object268_image_resized = 2130837915;
+			
+			// aapt resource value: 0x7f02019c
+			public const int object416_image_resized = 2130837916;
+			
+			// aapt resource value: 0x7f02019d
+			public const int object_140_image_resized = 2130837917;
+			
+			// aapt resource value: 0x7f02019e
+			public const int object_261_image_resized = 2130837918;
+			
+			// aapt resource value: 0x7f02019f
+			public const int object_430_image_resized = 2130837919;
+			
+			// aapt resource value: 0x7f0201a0
+			public const int object_907_image_resized = 2130837920;
+			
+			// aapt resource value: 0x7f0201a1
+			public const int panther_ii_image_resized = 2130837921;
+			
+			// aapt resource value: 0x7f0201a2
+			public const int profillogo = 2130837922;
+			
+			// aapt resource value: 0x7f0201a3
+			public const int progress3 = 2130837923;
+			
+			// aapt resource value: 0x7f0201a4
+			public const int progress4 = 2130837924;
+			
+			// aapt resource value: 0x7f0201a5
+			public const int progress5 = 2130837925;
+			
+			// aapt resource value: 0x7f0201a6
+			public const int progress6 = 2130837926;
+			
+			// aapt resource value: 0x7f0201a7
+			public const int pz38t_image_resized = 2130837927;
+			
+			// aapt resource value: 0x7f0201a8
+			public const int pz_iv_ausfa_image_resized = 2130837928;
+			
+			// aapt resource value: 0x7f0201a9
+			public const int pz_iv_ausfd_image_resized = 2130837929;
+			
+			// aapt resource value: 0x7f0201aa
+			public const int pz_iv_ausfh_image_resized = 2130837930;
+			
+			// aapt resource value: 0x7f0201ab
+			public const int pz_sfl_ivb_image_resized = 2130837931;
+			
+			// aapt resource value: 0x7f0201ac
+			public const int pz_sfl_ivc_image_resized = 2130837932;
+			
+			// aapt resource value: 0x7f0201ad
+			public const int pzi_ausf_c_image_resized = 2130837933;
+			
+			// aapt resource value: 0x7f0201ae
+			public const int pzi_image_resized = 2130837934;
+			
+			// aapt resource value: 0x7f0201af
+			public const int pziii_a_image_resized = 2130837935;
+			
+			// aapt resource value: 0x7f0201b0
+			public const int pziii_ausfj_image_resized = 2130837936;
+			
+			// aapt resource value: 0x7f0201b1
+			public const int pziii_iv_image_resized = 2130837937;
+			
+			// aapt resource value: 0x7f0201b2
+			public const int pziv_hydro_image_resized = 2130837938;
+			
+			// aapt resource value: 0x7f0201b3
+			public const int pziv_schmalturm_image_resized = 2130837939;
+			
+			// aapt resource value: 0x7f0201b4
+			public const int pzv_image_resized = 2130837940;
+			
+			// aapt resource value: 0x7f0201b5
+			public const int pzv_pziv_ausf_alfa_image_resized = 2130837941;
+			
+			// aapt resource value: 0x7f0201b6
+			public const int pzv_pziv_image_resized = 2130837942;
+			
+			// aapt resource value: 0x7f0201b7
+			public const int pzvi_image_resized = 2130837943;
+			
+			// aapt resource value: 0x7f0201b8
+			public const int pzvi_tiger_p_image_resized = 2130837944;
+			
+			// aapt resource value: 0x7f0201b9
+			public const int r01_is_image_resized = 2130837945;
+			
+			// aapt resource value: 0x7f0201ba
+			public const int r02_su_85_image_resized = 2130837946;
+			
+			// aapt resource value: 0x7f0201bb
+			public const int r04_t_34_image_resized = 2130837947;
+			
+			// aapt resource value: 0x7f0201bc
+			public const int r06_t_28_image_resized = 2130837948;
+			
+			// aapt resource value: 0x7f0201bd
+			public const int r100_su122a_image_resized = 2130837949;
+			
+			// aapt resource value: 0x7f0201be
+			public const int r104_object_430_ii_image_resized = 2130837950;
+			
+			// aapt resource value: 0x7f0201bf
+			public const int r105_bt_7a_image_resized = 2130837951;
+			
+			// aapt resource value: 0x7f0201c0
+			public const int r106_kv85_image_resized = 2130837952;
+			
+			// aapt resource value: 0x7f0201c1
+			public const int r107_ltb_image_resized = 2130837953;
+			
+			// aapt resource value: 0x7f0201c2
+			public const int r108_t34_85m_image_resized = 2130837954;
+			
+			// aapt resource value: 0x7f0201c3
+			public const int r109_t54s_image_resized = 2130837955;
+			
+			// aapt resource value: 0x7f0201c4
+			public const int r110_object_260_image_resized = 2130837956;
+			
+			// aapt resource value: 0x7f0201c5
+			public const int r111_isu130_image_resized = 2130837957;
+			
+			// aapt resource value: 0x7f0201c6
+			public const int r112_t54_45_image_resized = 2130837958;
+			
+			// aapt resource value: 0x7f0201c7
+			public const int r113_object_730_image_resized = 2130837959;
+			
+			// aapt resource value: 0x7f0201c8
+			public const int r115_is_3_auto_image_resized = 2130837960;
+			
+			// aapt resource value: 0x7f0201c9
+			public const int r116_isu122c_berlin_image_resized = 2130837961;
+			
+			// aapt resource value: 0x7f0201ca
+			public const int r117_t34_85_rudy_image_resized = 2130837962;
+			
+			// aapt resource value: 0x7f0201cb
+			public const int r118_t28_f30_image_resized = 2130837963;
+			
+			// aapt resource value: 0x7f0201cc
+			public const int r11_ms_1_image_resized = 2130837964;
+			
+			// aapt resource value: 0x7f0201cd
+			public const int r120_t22sr_a22_image_resized = 2130837965;
+			
+			// aapt resource value: 0x7f0201ce
+			public const int r127_t44_100_p_image_resized = 2130837966;
+			
+			// aapt resource value: 0x7f0201cf
+			public const int r12_a_20_image_resized = 2130837967;
+			
+			// aapt resource value: 0x7f0201d0
+			public const int r16_su_18_image_resized = 2130837968;
+			
+			// aapt resource value: 0x7f0201d1
+			public const int r17_su_100_image_resized = 2130837969;
+			
+			// aapt resource value: 0x7f0201d2
+			public const int r18_su_152_image_resized = 2130837970;
+			
+			// aapt resource value: 0x7f0201d3
+			public const int r19_is_3_image_resized = 2130837971;
+			
+			// aapt resource value: 0x7f0201d4
+			public const int r24_su_76_image_resized = 2130837972;
+			
+			// aapt resource value: 0x7f0201d5
+			public const int r38_kv_220_action_image_resized = 2130837973;
+			
+			// aapt resource value: 0x7f0201d6
+			public const int r39_kv_3_image_resized = 2130837974;
+			
+			// aapt resource value: 0x7f0201d7
+			public const int r51_object_212_image_resized = 2130837975;
+			
+			// aapt resource value: 0x7f0201d8
+			public const int r53_object_704_image_resized = 2130837976;
+			
+			// aapt resource value: 0x7f0201d9
+			public const int r54_kv_5_image_resized = 2130837977;
+			
+			// aapt resource value: 0x7f0201da
+			public const int r61_object252_image_resized = 2130837978;
+			
+			// aapt resource value: 0x7f0201db
+			public const int r71_is_2b_image_resized = 2130837979;
+			
+			// aapt resource value: 0x7f0201dc
+			public const int r80_kv1_image_resized = 2130837980;
+			
+			// aapt resource value: 0x7f0201dd
+			public const int r81_is8_image_resized = 2130837981;
+			
+			// aapt resource value: 0x7f0201de
+			public const int r86_ltp_image_resized = 2130837982;
+			
+			// aapt resource value: 0x7f0201df
+			public const int r87_t62a_image_resized = 2130837983;
+			
+			// aapt resource value: 0x7f0201e0
+			public const int r90_is_4m_image_resized = 2130837984;
+			
+			// aapt resource value: 0x7f0201e1
+			public const int ram_ii_image_resized = 2130837985;
+			
+			// aapt resource value: 0x7f0201e2
+			public const int renaultbs_image_resized = 2130837986;
+			
+			// aapt resource value: 0x7f0201e3
+			public const int renaultft_ac_image_resized = 2130837987;
+			
+			// aapt resource value: 0x7f0201e4
+			public const int renaultft_image_resized = 2130837988;
+			
+			// aapt resource value: 0x7f0201e5
+			public const int renaultue57_image_resized = 2130837989;
+			
+			// aapt resource value: 0x7f0201e6
+			public const int rhb_waffentrager_image_resized = 2130837990;
+			
+			// aapt resource value: 0x7f0201e7
+			public const int s_35ca_image_resized = 2130837991;
+			
+			// aapt resource value: 0x7f0201e8
+			public const int s_51_image_resized = 2130837992;
+			
+			// aapt resource value: 0x7f0201e9
+			public const int somua_sau_40_image_resized = 2130837993;
+			
+			// aapt resource value: 0x7f0201ea
+			public const int st_b1_image_resized = 2130837994;
+			
+			// aapt resource value: 0x7f0201eb
+			public const int st_i_image_resized = 2130837995;
+			
+			// aapt resource value: 0x7f0201ec
+			public const int sta_1_image_resized = 2130837996;
+			
+			// aapt resource value: 0x7f0201ed
+			public const int stug_40_ausfg_image_resized = 2130837997;
+			
+			// aapt resource value: 0x7f0201ee
+			public const int sturer_emil_image_resized = 2130837998;
+			
+			// aapt resource value: 0x7f0201ef
+			public const int su100m1_image_resized = 2130837999;
+			
+			// aapt resource value: 0x7f0201f0
+			public const int su100y_image_resized = 2130838000;
+			
+			// aapt resource value: 0x7f0201f1
+			public const int su122_44_image_resized = 2130838001;
+			
+			// aapt resource value: 0x7f0201f2
+			public const int su122_54_image_resized = 2130838002;
+			
+			// aapt resource value: 0x7f0201f3
+			public const int su14_1_image_resized = 2130838003;
+			
+			// aapt resource value: 0x7f0201f4
+			public const int su76i_image_resized = 2130838004;
+			
+			// aapt resource value: 0x7f0201f5
+			public const int su_101_image_resized = 2130838005;
+			
+			// aapt resource value: 0x7f0201f6
+			public const int su_14_image_resized = 2130838006;
+			
+			// aapt resource value: 0x7f0201f7
+			public const int su_26_image_resized = 2130838007;
+			
+			// aapt resource value: 0x7f0201f8
+			public const int su_5_image_resized = 2130838008;
+			
+			// aapt resource value: 0x7f0201f9
+			public const int su_85i_image_resized = 2130838009;
+			
+			// aapt resource value: 0x7f0201fa
+			public const int su_8_image_resized = 2130838010;
+			
+			// aapt resource value: 0x7f0201fb
+			public const int t14_image_resized = 2130838011;
+			
+			// aapt resource value: 0x7f0201fc
+			public const int t150_image_resized = 2130838012;
+			
+			// aapt resource value: 0x7f0201fd
+			public const int t1_cunningham_image_resized = 2130838013;
+			
+			// aapt resource value: 0x7f0201fe
+			public const int t1_e6_image_resized = 2130838014;
+			
+			// aapt resource value: 0x7f0201ff
+			public const int t21_image_resized = 2130838015;
+			
+			// aapt resource value: 0x7f020200
+			public const int t25_2_image_resized = 2130838016;
+			
+			// aapt resource value: 0x7f020201
+			public const int t25_at_image_resized = 2130838017;
+			
+			// aapt resource value: 0x7f020202
+			public const int t28_image_resized = 2130838018;
+			
+			// aapt resource value: 0x7f020203
+			public const int t2_lt_image_resized = 2130838019;
+			
+			// aapt resource value: 0x7f020204
+			public const int t44_122_image_resized = 2130838020;
+			
+			// aapt resource value: 0x7f020205
+			public const int t49_image_resized = 2130838021;
+			
+			// aapt resource value: 0x7f020206
+			public const int t57_58_image_resized = 2130838022;
+			
+			// aapt resource value: 0x7f020207
+			public const int t67_image_resized = 2130838023;
+			
+			// aapt resource value: 0x7f020208
+			public const int t69_image_resized = 2130838024;
+			
+			// aapt resource value: 0x7f020209
+			public const int t7_combat_car_image_resized = 2130838025;
+			
+			// aapt resource value: 0x7f02020a
+			public const int t80_image_resized = 2130838026;
+			
+			// aapt resource value: 0x7f02020b
+			public const int t92_image_resized = 2130838027;
+			
+			// aapt resource value: 0x7f02020c
+			public const int t95_e2_image_resized = 2130838028;
+			
+			// aapt resource value: 0x7f02020d
+			public const int t95_image_resized = 2130838029;
+			
+			// aapt resource value: 0x7f02020e
+			public const int t_127_image_resized = 2130838030;
+			
+			// aapt resource value: 0x7f02020f
+			public const int t_15_image_resized = 2130838031;
+			
+			// aapt resource value: 0x7f020210
+			public const int t_26_image_resized = 2130838032;
+			
+			// aapt resource value: 0x7f020211
+			public const int t_34_85_image_resized = 2130838033;
+			
+			// aapt resource value: 0x7f020212
+			public const int t_43_image_resized = 2130838034;
+			
+			// aapt resource value: 0x7f020213
+			public const int t_44_image_resized = 2130838035;
+			
+			// aapt resource value: 0x7f020214
+			public const int t_46_image_resized = 2130838036;
+			
+			// aapt resource value: 0x7f020215
+			public const int t_50_image_resized = 2130838037;
+			
+			// aapt resource value: 0x7f020216
+			public const int t_54_image_resized = 2130838038;
+			
+			// aapt resource value: 0x7f020217
+			public const int t_60_image_resized = 2130838039;
+			
+			// aapt resource value: 0x7f020218
+			public const int t_70_image_resized = 2130838040;
+			
+			// aapt resource value: 0x7f020219
+			public const int te_ke_image_resized = 2130838041;
+			
+			// aapt resource value: 0x7f02021a
+			public const int tetrarch_ll_image_resized = 2130838042;
+			
+			// aapt resource value: 0x7f02021b
+			public const int type_61_image_resized = 2130838043;
+			
+			// aapt resource value: 0x7f02021c
+			public const int ussrflag = 2130838044;
+			
+			// aapt resource value: 0x7f02021d
+			public const int valentine_ll_image_resized = 2130838045;
+			
+			// aapt resource value: 0x7f02021e
+			public const int vk2801_image_resized = 2130838046;
+			
+			// aapt resource value: 0x7f02021f
+			public const int vk3001p_image_resized = 2130838047;
+			
+			// aapt resource value: 0x7f020220
+			public const int vk3002db_image_resized = 2130838048;
+			
+			// aapt resource value: 0x7f020221
+			public const int vk3002db_v1_image_resized = 2130838049;
+			
+			// aapt resource value: 0x7f020222
+			public const int vk3002m_image_resized = 2130838050;
+			
+			// aapt resource value: 0x7f020223
+			public const int vk4502a_image_resized = 2130838051;
+			
+			// aapt resource value: 0x7f020224
+			public const int vk4502p_image_resized = 2130838052;
+			
+			// aapt resource value: 0x7f020225
+			public const int waffentrager_e100_image_resized = 2130838053;
+			
+			// aapt resource value: 0x7f020226
+			public const int waffentrager_iv_image_resized = 2130838054;
 			
 			static Drawable()
 			{
