@@ -1,6 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="Quiz_for_WOT.Pages.InputAppPage">
-  <Label Text="{Binding MainText}" VerticalOptions="Center" HorizontalOptions="Center" />
+             x:Class="Quiz_for_WOT.Pages.InputAppPage" 
+             Icon="{Binding Icon}">
+  <StackLayout BackgroundColor="#3A392F" Padding="20,20,20,20">
+    <StackLayout>
+      <Image  Source="inputlogo.jpg"/>
+    </StackLayout>
+    <StackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
+      <Label TextColor="#D0D0BA" x:Name="LabelAppHello"></Label>
+    </StackLayout>
+  </StackLayout>
 </ContentPage>

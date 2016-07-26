@@ -117,14 +117,53 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="AppHello" xml:space="preserve">
+    <value>Greetings, soldier! Ready to start the battle?</value>
+  </data>
   <data name="AppName" xml:space="preserve">
     <value>Quiz for WOT</value>
+  </data>
+  <data name="Menu" xml:space="preserve">
+    <value>Menu</value>
   </data>
   <data name="MenuAboutApp" xml:space="preserve">
     <value>About</value>
   </data>
+  <data name="MenuAnotherProject" xml:space="preserve">
+    <value>Our projects</value>
+  </data>
   <data name="MenuCopyright" xml:space="preserve">
     <value>Copyright</value>
+  </data>
+  <data name="MenuGame" xml:space="preserve">
+    <value>Game</value>
+  </data>
+  <data name="MenuStatictics" xml:space="preserve">
+    <value>My records</value>
+  </data>
+  <data name="MenuStorage" xml:space="preserve">
+    <value>Storage</value>
+  </data>
+  <data name="MenuStore" xml:space="preserve">
+    <value>Store</value>
+  </data>
+  <data name="NavigationToMenu" xml:space="preserve">
+    <value>Main menu</value>
+  </data>
+  <data name="PageAboutApp" xml:space="preserve">
+    <value>Unreal Tank Quiz - added a new level of the game, updated storyline, enhanced graphics - lots of positive and fun will not leave you indifferent!
+
+Tanks guess from the description or image.
+
+Know your limits!
+
+And then go out beyond them!
+
+The game contains all technics of World of Tanks computer game.
+
+Complete the game, type the record and become the best of the best!
+
+So what are you waiting for?</value>
   </data>
   <data name="PageAboutAppText" xml:space="preserve">
     <value>Unreal Tank Quiz - added a new level of the game, updated storyline, enhanced graphics - lots of positive and fun will not leave you indifferent!
@@ -141,7 +180,61 @@ Complete the game, type the record and become the best of the best!
 
 So what are you waiting for?</value>
   </data>
+  <data name="PageAnotherProjectButtonOpen" xml:space="preserve">
+    <value>Show app</value>
+  </data>
+  <data name="PageAnotherProjectLink" xml:space="preserve">
+    <value>https://itunes.apple.com/us/app/my-habits-step-by-step/id1135293904</value>
+  </data>
+  <data name="PageAnotherProjectText" xml:space="preserve">
+    <value>Control your habits - one of the main challenges facing the human striving for personal growth and self-development. Habits determine the nature, condition of the body, up to 40% of our daily activities. By changing just a few habits can change throughout his life.
+You may be accustomed to get up early to run, just to sit, to eat, to think positively, to meditate, to streamline the daily routine and more. A chance meeting can change the fate. Change only one habit change your whole future life.
+
+So what are you waiting for?</value>
+  </data>
+  <data name="PageBattleTasksHello" xml:space="preserve">
+    <value>Battle tasks to get experience:</value>
+  </data>
   <data name="PageCopyrightText" xml:space="preserve">
     <value>This application is NOT a development of Wargaming.net. Application is made in accordance with Wargaming Developer Partner Program rules: http://eu.wargaming.net/developers/documentation/rules/rules/</value>
+  </data>
+  <data name="PageCopyrightText1" xml:space="preserve">
+    <value>This application is NOT a development of Wargaming.net. Application is made in accordance with Wargaming Developer Partner Program rules: http://eu.wargaming.net/developers/documentation/rules/rules/</value>
+  </data>
+  <data name="PageGameGetMoney" xml:space="preserve">
+    <value>Get scores</value>
+  </data>
+  <data name="PageGameStart" xml:space="preserve">
+    <value>Loading Battle</value>
+  </data>
+  <data name="PageLoseTitle" xml:space="preserve">
+    <value>You lose</value>
+  </data>
+  <data name="PageStatisticsGlobalRating" xml:space="preserve">
+    <value>The global record: 576</value>
+  </data>
+  <data name="PageStatisticsLabelAllExperience" xml:space="preserve">
+    <value>All experience</value>
+  </data>
+  <data name="PageStatisticsLabelAllMoney" xml:space="preserve">
+    <value>All money</value>
+  </data>
+  <data name="PageStatisticsLabelAllQuestion" xml:space="preserve">
+    <value>All questions</value>
+  </data>
+  <data name="PageStatisticsLabelFalseQuestion" xml:space="preserve">
+    <value>False</value>
+  </data>
+  <data name="PageStatisticsLabelRecords" xml:space="preserve">
+    <value>My records</value>
+  </data>
+  <data name="PageStatisticsLabelTrueQuestion" xml:space="preserve">
+    <value>True</value>
+  </data>
+  <data name="PageStatisticsTitle" xml:space="preserve">
+    <value>Common</value>
+  </data>
+  <data name="PageWinGameTitle" xml:space="preserve">
+    <value>You Won</value>
   </data>
 </root>

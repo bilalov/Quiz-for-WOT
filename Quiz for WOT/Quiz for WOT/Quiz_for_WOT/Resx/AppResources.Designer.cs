@@ -62,11 +62,29 @@ namespace Quiz_for_WOT.Resx {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Greetings, soldier! Ready to start the battle?.
+        /// </summary>
+        internal static string AppHello {
+            get {
+                return ResourceManager.GetString("AppHello", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Quiz for WOT.
         /// </summary>
         internal static string AppName {
             get {
                 return ResourceManager.GetString("AppName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Menu.
+        /// </summary>
+        internal static string Menu {
+            get {
+                return ResourceManager.GetString("Menu", resourceCulture);
             }
         }
         
@@ -80,11 +98,86 @@ namespace Quiz_for_WOT.Resx {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Our projects.
+        /// </summary>
+        internal static string MenuAnotherProject {
+            get {
+                return ResourceManager.GetString("MenuAnotherProject", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Copyright.
         /// </summary>
         internal static string MenuCopyright {
             get {
                 return ResourceManager.GetString("MenuCopyright", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Game.
+        /// </summary>
+        internal static string MenuGame {
+            get {
+                return ResourceManager.GetString("MenuGame", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to My records.
+        /// </summary>
+        internal static string MenuStatictics {
+            get {
+                return ResourceManager.GetString("MenuStatictics", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Storage.
+        /// </summary>
+        internal static string MenuStorage {
+            get {
+                return ResourceManager.GetString("MenuStorage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Store.
+        /// </summary>
+        internal static string MenuStore {
+            get {
+                return ResourceManager.GetString("MenuStore", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Main menu.
+        /// </summary>
+        internal static string NavigationToMenu {
+            get {
+                return ResourceManager.GetString("NavigationToMenu", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Unreal Tank Quiz - added a new level of the game, updated storyline, enhanced graphics - lots of positive and fun will not leave you indifferent!
+        ///
+        ///Tanks guess from the description or image.
+        ///
+        ///Know your limits!
+        ///
+        ///And then go out beyond them!
+        ///
+        ///The game contains all technics of World of Tanks computer game.
+        ///
+        ///Complete the game, type the record and become the best of the best!
+        ///
+        ///So what are you waiting for?.
+        /// </summary>
+        internal static string PageAboutApp {
+            get {
+                return ResourceManager.GetString("PageAboutApp", resourceCulture);
             }
         }
         
@@ -110,11 +203,167 @@ namespace Quiz_for_WOT.Resx {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Show app.
+        /// </summary>
+        internal static string PageAnotherProjectButtonOpen {
+            get {
+                return ResourceManager.GetString("PageAnotherProjectButtonOpen", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to https://itunes.apple.com/us/app/my-habits-step-by-step/id1135293904.
+        /// </summary>
+        internal static string PageAnotherProjectLink {
+            get {
+                return ResourceManager.GetString("PageAnotherProjectLink", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Control your habits - one of the main challenges facing the human striving for personal growth and self-development. Habits determine the nature, condition of the body, up to 40% of our daily activities. By changing just a few habits can change throughout his life.
+        ///You may be accustomed to get up early to run, just to sit, to eat, to think positively, to meditate, to streamline the daily routine and more. A chance meeting can change the fate. Change only one habit change your whole future life.
+        ///
+        ///So what  [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string PageAnotherProjectText {
+            get {
+                return ResourceManager.GetString("PageAnotherProjectText", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Battle tasks to get experience:.
+        /// </summary>
+        internal static string PageBattleTasksHello {
+            get {
+                return ResourceManager.GetString("PageBattleTasksHello", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to This application is NOT a development of Wargaming.net. Application is made in accordance with Wargaming Developer Partner Program rules: http://eu.wargaming.net/developers/documentation/rules/rules/.
         /// </summary>
         internal static string PageCopyrightText {
             get {
                 return ResourceManager.GetString("PageCopyrightText", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to This application is NOT a development of Wargaming.net. Application is made in accordance with Wargaming Developer Partner Program rules: http://eu.wargaming.net/developers/documentation/rules/rules/.
+        /// </summary>
+        internal static string PageCopyrightText1 {
+            get {
+                return ResourceManager.GetString("PageCopyrightText1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Get scores.
+        /// </summary>
+        internal static string PageGameGetMoney {
+            get {
+                return ResourceManager.GetString("PageGameGetMoney", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Loading Battle.
+        /// </summary>
+        internal static string PageGameStart {
+            get {
+                return ResourceManager.GetString("PageGameStart", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You lose.
+        /// </summary>
+        internal static string PageLoseTitle {
+            get {
+                return ResourceManager.GetString("PageLoseTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The global record: 576.
+        /// </summary>
+        internal static string PageStatisticsGlobalRating {
+            get {
+                return ResourceManager.GetString("PageStatisticsGlobalRating", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to All experience.
+        /// </summary>
+        internal static string PageStatisticsLabelAllExperience {
+            get {
+                return ResourceManager.GetString("PageStatisticsLabelAllExperience", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to All money.
+        /// </summary>
+        internal static string PageStatisticsLabelAllMoney {
+            get {
+                return ResourceManager.GetString("PageStatisticsLabelAllMoney", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to All questions.
+        /// </summary>
+        internal static string PageStatisticsLabelAllQuestion {
+            get {
+                return ResourceManager.GetString("PageStatisticsLabelAllQuestion", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to False.
+        /// </summary>
+        internal static string PageStatisticsLabelFalseQuestion {
+            get {
+                return ResourceManager.GetString("PageStatisticsLabelFalseQuestion", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to My records.
+        /// </summary>
+        internal static string PageStatisticsLabelRecords {
+            get {
+                return ResourceManager.GetString("PageStatisticsLabelRecords", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to True.
+        /// </summary>
+        internal static string PageStatisticsLabelTrueQuestion {
+            get {
+                return ResourceManager.GetString("PageStatisticsLabelTrueQuestion", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Common.
+        /// </summary>
+        internal static string PageStatisticsTitle {
+            get {
+                return ResourceManager.GetString("PageStatisticsTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You Won.
+        /// </summary>
+        internal static string PageWinGameTitle {
+            get {
+                return ResourceManager.GetString("PageWinGameTitle", resourceCulture);
             }
         }
     }

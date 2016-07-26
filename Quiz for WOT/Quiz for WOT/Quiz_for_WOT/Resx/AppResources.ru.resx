@@ -117,14 +117,47 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="AppHello" xml:space="preserve">
+    <value>Приветствую, боец! Готов начать сражение?</value>
+  </data>
   <data name="AppName" xml:space="preserve">
     <value>Викторина для WOT</value>
+  </data>
+  <data name="Menu" xml:space="preserve">
+    <value>Меню</value>
   </data>
   <data name="MenuAboutApp" xml:space="preserve">
     <value>О приложении</value>
   </data>
+  <data name="MenuAnotherProject" xml:space="preserve">
+    <value>Наши проекты</value>
+  </data>
   <data name="MenuCopyright" xml:space="preserve">
     <value>Авторские права</value>
+  </data>
+  <data name="MenuGame" xml:space="preserve">
+    <value>Играть</value>
+  </data>
+  <data name="MenuStatictics" xml:space="preserve">
+    <value>Рекорды</value>
+  </data>
+  <data name="NavigationToMenu" xml:space="preserve">
+    <value>В главное меню</value>
+  </data>
+  <data name="PageAboutApp" xml:space="preserve">
+    <value>Нереальная танковая викторина - добавлен новый уровень игры, обновлена сюжетная линия, улучшенная графика - море позитива и фана не оставят тебя равнодушным!
+
+Угадывай танки по описанию или изображению.
+
+Узнай границы своих возможностей!
+
+А потом выйди за их пределы!
+
+В игре собраны вся техника из компьютерной игры World of Tanks.
+
+Пройди игру, набери рекорд и стань лучшим из лучших!
+
+Чего же ты ждешь?</value>
   </data>
   <data name="PageAboutAppText" xml:space="preserve">
     <value>Нереальная танковая викторина - добавлен новый уровень игры, обновлена сюжетная линия, улучшенная графика - море позитива и фана не оставят тебя равнодушным!
@@ -141,7 +174,61 @@
 
 Чего же ты ждешь?</value>
   </data>
+  <data name="PageAnotherProjectButtonOpen" xml:space="preserve">
+    <value>Посмотреть приложение</value>
+  </data>
+  <data name="PageAnotherProjectLink" xml:space="preserve">
+    <value>https://itunes.apple.com/ru/app/moi-privycki/id1126887835</value>
+  </data>
+  <data name="PageAnotherProjectText" xml:space="preserve">
+    <value>Контроль своих привычек – одна из основных задач, стоящих перед человеком, стремящимся к личностному росту и саморазвитию. Привычки определяют характер, состояние организма, до 40% наших ежедневных действий. Изменив всего пару привычек, можно изменить течение всей своей жизни. 
+Вы можете приучиться вставать рано, бегать, прямо сидеть, правильно питаться, мыслить позитивно, заняться медитацией, упорядочить распорядок дня и многое другое. Одна случайная встреча может изменить судьбу. Изменение всего одной привычки меняет всю вашу дальнейшую жизнь.
+
+Так чего же ты ждешь?</value>
+  </data>
   <data name="PageCopyrightText" xml:space="preserve">
     <value>Данное приложение НЕ является продуктом компании Wargaming.net и создано согласно правилам Wargaming Developer Partner Program: http://eu.wargaming.net/developers/documentation/rules/rules/</value>
+  </data>
+  <data name="PageCopyrightText1" xml:space="preserve">
+    <value>Данное приложение НЕ является продуктом компании Wargaming.net и создано согласно правилам Wargaming Developer Partner Program: http://eu.wargaming.net/developers/documentation/rules/rules/</value>
+  </data>
+  <data name="PageGameGetMoney" xml:space="preserve">
+    <value>Забрать очки</value>
+  </data>
+  <data name="PageGameStart" xml:space="preserve">
+    <value>Загрузка игры</value>
+  </data>
+  <data name="PageLoseTitle" xml:space="preserve">
+    <value>Поражение</value>
+  </data>
+  <data name="PageLoseToMenu" xml:space="preserve">
+    <value>В главное меню</value>
+  </data>
+  <data name="PageStatisticsGlobalRating" xml:space="preserve">
+    <value>Глобальный рекорд: 576</value>
+  </data>
+  <data name="PageStatisticsLabelAllExperience" xml:space="preserve">
+    <value>Заработано всего опыта</value>
+  </data>
+  <data name="PageStatisticsLabelAllMoney" xml:space="preserve">
+    <value>Заработано всего серебра</value>
+  </data>
+  <data name="PageStatisticsLabelAllQuestion" xml:space="preserve">
+    <value>Всего отвеченно вопросов</value>
+  </data>
+  <data name="PageStatisticsLabelFalseQuestion" xml:space="preserve">
+    <value>Неправильно</value>
+  </data>
+  <data name="PageStatisticsLabelRecords" xml:space="preserve">
+    <value>Мои рекорды</value>
+  </data>
+  <data name="PageStatisticsLabelTrueQuestion" xml:space="preserve">
+    <value>Правильно</value>
+  </data>
+  <data name="PageStatisticsTitle" xml:space="preserve">
+    <value>Общая</value>
+  </data>
+  <data name="PageWinGameTitle" xml:space="preserve">
+    <value>Победа</value>
   </data>
 </root>
