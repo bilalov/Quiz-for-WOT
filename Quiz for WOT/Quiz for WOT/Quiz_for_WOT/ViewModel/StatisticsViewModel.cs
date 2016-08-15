@@ -15,22 +15,21 @@ namespace Quiz_for_WOT.ViewModel
 {
     public class StatisticsViewModel
     {
-        public List<ScoreView> Scores { get; set; } 
+        public List<ScoreViewModel> Scores { get; set; } 
        
         public StatisticsViewModel()
         {
-            Scores = new List<ScoreView>();
+            Scores = new List<ScoreViewModel>();
             var count = 1;
             foreach (var score in App.ScoreManager.Scores.OrderByDescending(x=>x).ToList().Take(10))
             {
-                Scores.Add(new ScoreView() {Place = count,Value=score});
+                Scores.Add(new ScoreViewModel() {Place = count,Value=score});
                 count++;
             }
-            //Scores.ReplaceRange(App.ScoreManager.Scores.OrderByDescending(x=>x).ToList().Take(10).ToList());
 
         }
 
-        public class ScoreView
+        public class ScoreViewModel
         {
             public int Place { get; set; }
             public int Value { get; set; }
