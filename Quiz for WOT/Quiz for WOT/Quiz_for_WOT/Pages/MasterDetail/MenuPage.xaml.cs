@@ -23,7 +23,7 @@ namespace Quiz_for_WOT.Pages.MasterDetail
             BackgroundColor = Color.FromHex("#795548");
             BindingContext = new BaseViewModel
             {
-                Title = "Menu",
+                Title = AppResources.Menu,
                 Subtitle = " ",
                 Icon = "icon.png"
             };
@@ -33,6 +33,7 @@ namespace Quiz_for_WOT.Pages.MasterDetail
                     new HomeMenuItem { Title = AppResources.MenuGame, MenuType = MenuType.Game, Icon = "handofdeath.png"},
                     new HomeMenuItem { Title = AppResources.MenuStatictics, MenuType = MenuType.Statistics, Icon = "medalleclerc2.png" },
                     new HomeMenuItem { Title = AppResources.MenuAboutApp, MenuType = MenuType.AboutApp, Icon ="progress4.png" },
+                    new HomeMenuItem { Title = AppResources.SettingsPageTitle, MenuType = MenuType.SettingsPage, Icon ="progress5.png" },
                 };
 
             ListViewMenu.SelectedItem = menuItems[0];

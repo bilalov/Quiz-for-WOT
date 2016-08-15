@@ -287,6 +287,15 @@ namespace Quiz_for_WOT.Resx {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Menu.
+        /// </summary>
+        internal static string PageLoseToMenu {
+            get {
+                return ResourceManager.GetString("PageLoseToMenu", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to The global record: 576.
         /// </summary>
         internal static string PageStatisticsGlobalRating {
@@ -364,6 +373,33 @@ namespace Quiz_for_WOT.Resx {
         internal static string PageWinGameTitle {
             get {
                 return ResourceManager.GetString("PageWinGameTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Save.
+        /// </summary>
+        internal static string Save {
+            get {
+                return ResourceManager.GetString("Save", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Language.
+        /// </summary>
+        internal static string SettingsPageLanguage {
+            get {
+                return ResourceManager.GetString("SettingsPageLanguage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Settings.
+        /// </summary>
+        internal static string SettingsPageTitle {
+            get {
+                return ResourceManager.GetString("SettingsPageTitle", resourceCulture);
             }
         }
     }

@@ -9,7 +9,8 @@ namespace Quiz_for_WOT.Helpers
         About,
         Game,
         Statistics,
-        AboutApp
+        AboutApp,
+        SettingsPage
     }
     public class HomeMenuItem : BaseModel
     {

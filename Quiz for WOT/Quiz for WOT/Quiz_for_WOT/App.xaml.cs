@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Text;
 using Quiz_for_WOT.Data;
@@ -37,9 +38,22 @@ namespace Quiz_for_WOT
 
             ScoreManager = new StatisticsStore().Load();
 
-
-            var netLanguage = DependencyService.Get<ILocalize>().GetCurrentCultureInfo();
-            AppResources.Culture = netLanguage;
+            if (ScoreManager.Language != 0)
+            {
+                if (ScoreManager.Language==1)
+                {
+                    AppResources.Culture = new CultureInfo("ru-Ru");
+                }
+                else if (ScoreManager.Language==2)
+                {
+                    AppResources.Culture = new CultureInfo("en-US");
+                }
+            }
+            else
+            {
+                var netLanguage = DependencyService.Get<ILocalize>().GetCurrentCultureInfo();
+                AppResources.Culture = netLanguage;
+            }
 
             MainPage = new RootPage();
         }

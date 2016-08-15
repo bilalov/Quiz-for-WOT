@@ -65,6 +65,9 @@ namespace Quiz_for_WOT.Pages.MasterDetail
                     case MenuType.Game:
                         Pages.Add(id, new HanselmanNavigationPage(new InputGamePage()));
                         break;
+                    case MenuType.SettingsPage:
+                        Pages.Add(id, new HanselmanNavigationPage(new SettingsPage()));
+                        break;
                 }
             }
 

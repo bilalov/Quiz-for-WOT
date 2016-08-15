@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Quiz_for_WOT.Pages.MasterDetail.MenuPage" 
              Title="{Binding Title}"
-             Icon="{Binding Icon}">
+             >
   <ContentPage.Content>
     <ListView BackgroundColor="#2A2823"
            SeparatorColor="Transparent"
@@ -24,7 +24,7 @@
           </Grid.RowDefinitions>
           <Image Grid.ColumnSpan="3"
                    Grid.RowSpan="4"
-                  Source="ussrflag.png"/>
+                  Source="ussrflag.jpg"/>
         </Grid>
       </ListView.Header>
       <ListView.ItemTemplate>

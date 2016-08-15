@@ -1,5 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android">
-	<uses-sdk android:minSdkVersion="15" />
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.bilalovandrei.wotquiz" android:installLocation="auto" android:versionCode="28" android:versionName="1.3">
+	<uses-sdk android:minSdkVersion="14" />
+  <uses-sdk android:targetSdkVersion="23" />
+	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+	<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 	<application android:label="Quiz for WOT" android:icon="@drawable/iconapp" android:theme="@style/MyTheme"></application>
 </manifest>

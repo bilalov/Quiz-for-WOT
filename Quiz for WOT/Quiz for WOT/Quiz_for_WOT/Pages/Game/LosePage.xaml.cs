@@ -20,19 +20,9 @@ namespace Quiz_for_WOT.Pages.Game
             LabelTitle.Text = AppResources.PageLoseTitle;
             LabelToMenu.IsVisible = false;
             LabelToMenu.Text = AppResources.NavigationToMenu;
-            //DependencyService.Get<IAdmobInterstitial>().Show("ca-app-pub-6689425535756986/9054804151");
-            delay();
-
-
-        }
-
-
-        private async void delay()
-        {
-            await Task.Delay(3000);
             LabelToMenu.IsVisible = true;
-
         }
+
         private void GoToMenuButton(object sender, EventArgs e)
         {
             Application.Current.MainPage = new RootPage();

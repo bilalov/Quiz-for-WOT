@@ -231,4 +231,13 @@
   <data name="PageWinGameTitle" xml:space="preserve">
     <value>Победа</value>
   </data>
+  <data name="SettingsPageTitle" xml:space="preserve">
+    <value>Настройки</value>
+  </data>
+  <data name="SettingsPageLanguage" xml:space="preserve">
+    <value>Язык</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>Сохранить</value>
+  </data>
 </root>

@@ -11,7 +11,8 @@ namespace Quiz_for_WOT.Helpers
 {
     public class ScoreManager
     {
-        public System.Collections.Generic.List<int> Scores { get; set; } = new System.Collections.Generic.List<int>(); 
+        public System.Collections.Generic.List<int> Scores { get; set; } = new System.Collections.Generic.List<int>();
+        public int Language { get; set; } = 0;
 
         public ScoreManager()
         {

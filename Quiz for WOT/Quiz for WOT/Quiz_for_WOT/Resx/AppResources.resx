@@ -237,4 +237,16 @@ So what are you waiting for?</value>
   <data name="PageWinGameTitle" xml:space="preserve">
     <value>You Won</value>
   </data>
+  <data name="PageLoseToMenu" xml:space="preserve">
+    <value>Menu</value>
+  </data>
+  <data name="SettingsPageTitle" xml:space="preserve">
+    <value>Settings</value>
+  </data>
+  <data name="SettingsPageLanguage" xml:space="preserve">
+    <value>Language</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>Save</value>
+  </data>
 </root>
