@@ -11,11 +11,13 @@ namespace Quiz_for_WOT.Factories
 {
     public class QuestionFactory
     {
-        public string TrueAnswer { get; set; } = string.Empty;
         private Random random;
-        public Tank tank { get; set; }
         private TankService service;
         private int countTanks = 430;
+
+        public string TrueAnswer { get; set; } = string.Empty;
+        public Tank tank { get; set; }
+        
         public QuestionFactory()
         {
             random = new Random();
@@ -33,25 +35,26 @@ namespace Quiz_for_WOT.Factories
         private Question CreateDescriptionQuestion()
         {
             Question question = new Question();
-            
 
             service.OpenConnection();
             tank = service.GetTank(random.Next(1, countTanks));
             question.Answers = new string[]
             {
-               service.GetTank(random.Next(1, 430)).Name,
-               service.GetTank(random.Next(1, 430)).Name,
-               service.GetTank(random.Next(1, 430)).Name,
-               service.GetTank(random.Next(1, 430)).Name,
+               service.GetTank(random.Next(1, countTanks)).Name,
+               service.GetTank(random.Next(1, countTanks)).Name,
+               service.GetTank(random.Next(1, countTanks)).Name,
+               service.GetTank(random.Next(1, countTanks)).Name,
             };
+
             if (AppResources.Culture.Name != "ru-RU")
                 question.Value = tank.Description_En;
             else question.Value = tank.Description;
-            Debug.WriteLine(AppResources.Culture.Name);
+
             question.TrueAnswer = tank.Name;
             var trueans = random.Next(0, 3);
             question.Answers[trueans] = tank.Name;
             service.CloseConnection();
+
             return question;
         }
 
@@ -63,16 +66,17 @@ namespace Quiz_for_WOT.Factories
             tank = service.GetTank(random.Next(1, countTanks));
             question.Answers = new string[]
             {
-               service.GetTank(random.Next(1, 430)).Name,
-               service.GetTank(random.Next(1, 430)).Name,
-               service.GetTank(random.Next(1, 430)).Name,
-               service.GetTank(random.Next(1, 430)).Name,
+               service.GetTank(random.Next(1, countTanks)).Name,
+               service.GetTank(random.Next(1, countTanks)).Name,
+               service.GetTank(random.Next(1, countTanks)).Name,
+               service.GetTank(random.Next(1, countTanks)).Name,
             };
             question.Value = tank.Image;
             question.TrueAnswer = tank.Name;
             var trueans = random.Next(0, 3);
             question.Answers[trueans] = tank.Name;
             service.CloseConnection();
+
             return question;
         }
        
